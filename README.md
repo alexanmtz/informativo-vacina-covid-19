@@ -79,6 +79,11 @@ Os efeitos colaterais mais comuns da vacina de RNA mensageiro são:
 
 Os efeitos colaterais ocorrem durante a primeira semana após a vacinação, mas geralmente acontece de um a dois dias após receber a vacine. Os efeitos colaterais continuam na segunda dose e é mais comum em pessoas mais jovens ao invés das mais velhas. Mas vale ressaltar que a maioria das pessoas não terão efeitos colaterais significantes, assim algumas pessoas manifestam desejo de agendar suas vacinações, e assim elas não precisam avisar no trabalho de última hora se não se sentirem bem.
 
+## O quão bem a vacina de RNA Mensageiro funciona?
+Mais de 9 entre 10 pessoas vacinas durante os testes clínicos foram protegidas da doença. Este número pode decrescer a medida que é aplicada na população geral devido as condições do teste clínicos, que tendem a ser favoráveis, então eles são baseados no melhor cenário. Entretanto, é ainda esperado que a maioria das pessoas que obtenham ambas as doses da vacina, de acordo com o intervalo de tempo recomendado, será protegido.
+
+More than 9 of every 10 people vaccinated during the clinical trials were protected from disease. This number may decrease a bit as the vaccines are given to the general population because the conditions during a clinical trial tend to be optimal, so they measure the best case scenario. However, it is still expected that most people who get both doses of the vaccine, according to the time interval recommended, will be protected.
+
 
 Fontes:
 - https://www.chop.edu/centers-programs/vaccine-education-center/making-vaccines/prevent-covid
