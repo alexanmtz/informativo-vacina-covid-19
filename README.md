@@ -1,116 +1,59 @@
-# Informativo sobre o vírus da COVID-19 e as vacinas
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de44d168-eb1d-47a5-8731-d77bb40af7c8/deploy-status)](https://app.netlify.com/sites/jamdocs/deploys)
 
-Tentando combater as fakenews sobre a Vacina do Covid com informação confiável para o público brasileiro. Estamos disponibilizando um apanhado de perguntas e respostas para que você possa entender melhor como o vírus da covid age e sobre as vacinas, com as perguntas mais comuns sobre este vírus que é novo e causa dúvida para muita gente.
+# ![Jamdocs](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/logo-dark.svg)
 
-Se não tem a resposta que procura, você pode iniciar [uma discussão aqui](https://github.com/alexanmtz/informativo-vacina-covid-19/discussions):
+The ultimate static generated documentation theme for the JAM-stack. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.samuelhorn.com/)
 
-## Como vacinas que usam RNA mensageiro (mRNA) funcionam?
+_Beware, Jamdocs is still in heavy development and will probably change a lot in the near future. And the docs for it is still not completed._
 
-Pessoas fazem *mRNA* o tempo todo. Em nossas células, o DNA que está no núcleo é usado para fazer *mRNA*, que é enviado para o citoplasma onde serve de base para fabricar proteínas. Na maioria das vezes, as proteínas que são produzidas são necessárias para as funções do corpo.
+## Fast by default
 
-Vacinas que usam *mRNA* tem a vantagem neste processo por introduzir no *mRNA* uma proteína importante do vírus no qual a vacina tenta se proteger. No caso do COVID-19, a proteína importante é uma parte da proteína para o vírus SARS-CoV-2. O RNA mensageiro codifica a parte da proteína SARS-CoV-2, que estimula a produção de anticorpos que nos protege, e então se somos expostos novamente a SARS-CoV-2, nosso sistema imune estará preparado e por isto não ficamos doentes novamente.
+Jamdocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
 
-## As vacinas de RNA mensageiro (mRNA) podem modificar o DNA de uma pessoa?
+![100/100/100/100 Lighthouse scores](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/pagespeed.png)
 
-Como o *mRNA* é ativo somente no citoplasma da célula e o DNA é localizado no núcleo, as vacinas produzidas com o *mRNA* não operam no mesmo compartimento celular onde o DNA está localizado.
+## Local installation for development
 
-Além disso, o *mRNA* é instável e permanece no citoplasma da célula somente em um período limitado de tempo (veja também em "Em que momento o corpo para de produzir a proteína de imunização para a COVID-19 depois de ter se vacinado?").
+1. `git clone https://github.com/samuelhorn/jamdocs project-name`.
+2. `cd project-name`
+3. `gridsome develop`.
 
-O RNA mensageiro nunca entra no núcleo one o DNA está localizado, então ela nunca pode alterar o DNA de uma pessoa.
+## Deploy to Netlify
 
-Assista este [vídeo curto do Dr. Offit mostrando como vacinas mRNA funcionam](https://www.chop.edu/centers-programs/vaccine-education-center/video/how-do-mrna-vaccines-work) (em inglês).
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samuelhorn/jamdocs)
 
-## Por que o corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?
-Pelo fato das céllulas continuamente produzirem proteínas, eles precisam de uma maneira de garantir que muitas proteínas não se acumulem na célula, então, em termos gerais, o RNA mensageiro é quebrado bem rapidamente. Mesmo se por alguma razão nossas células não quebrem a vacina do RNA mensageiro, o RNA mensageiro para de produzir a proteína dentro de 10 a 14 dias, independente da resposta imune do corpo a proteína.
+## Import to Forestry CMS
 
+[![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other "Import to Forestry")
 
-## Quais são os ingredientes da nova vacina de RNA mensageiro?
+This project has been pre-configured to work with [Forestry](https://forestry.io). Any changes you make in Forestry will be commited back to your repo. ✨
 
-A vacina mRNA da Pfizer inclui:
-- mRNA - Este RNA mensageiro é para o pedaço da proteína do SARS-CoV-2, o vírus que causa a COVID-19
-- Lipídios - Esta são moléculas incapazes de se dissolver em água. Ela protege o RNA mensageiro, então isto faz com que ela não se quebre antes de entrar em nossas células. Podemos pensar neles como "bolhas de gordura", que fica em volta do RNA mensageiro como uma parede protetora. Há quatro diferentes tipos de lipídios na vacina da Pfizer; um deles é o Cholesterol. *Os lipídios são os componentes da vacina mais susceptíveis a causar reações alérgicas*.
-- Sais - A vacina contém quatro tipos de sal. Um deles é sal em tablete. Os sais são usados para manter o pH da vacina similar ao encontrado no corpo, e assim a vacina não danifica as célulcas quando é administrada.
-- Açucar - Este ingrediente é literalmente o mesmo que você colocaria no café ou em seu cereal. Na vacina, ajuda a evitar que as "bolhas de gordura" se "colem" uma nas outras ou nos lados do frasco da vacina
+![Forestry documentation in JAMdocs](static/screenshor-forestry-preview.png)
 
-Estes são os únicos ingredientes da vacina da Pfizer que usa o RNA mensageiro.
+## Setup & configuration
 
-As vacinas da Pfizer não incluem:
-- Material fetal
-- DNA
-- Antibiótico
-- Qualquer produto sanguíneo
-- Preservativos, como thimerosal
-- Gluten
-- Proteínas do ovo
-- Produtos vindos de porcos
-- Microchips
+See the [demo](https://jamdocs.samuelhorn.com/), which is also the documentation, obviously!
 
-## Por que eu não deveria tomar a vacina para o COVID-19?
+## Todos
 
-A maioria das pessoas podem tomar a vacina para o COVID-19, a medida que os grupos prioritários são vacinados. Mas, temos alguns grupos de pessoas que não deveriam tomar a vacina, e outras deveriam consultar o seu médico primeiro ou até tomar a vacina seguindo procedimentos especiais.
+1. Improve the actual documentation for Jamdocs, in Jamdocs :)
+2. ~~Build the homepage better, dividing stuff into components and so on.~~
+3. Implement Algolia search.
+4. ~~Add a link to this repository from the demo.~~
 
-Pessoas que NÃO devem tomar a vacina para combater a COVID-19:
+## Credits
 
-- Pessoas com alergias severas a qualquer componente da vacina
-- Indivíduos com um histórico de alergia severa a qualquer vacina ou medicação injetável.
-- Menores de 16 anos de idade
-- Pessoas atualmente isoladas ou com sintomas de COVID-19; estas pessoas podem ser vacinadas quando terminar o isolamento e os sintomas primários desapareceram.
+* Creds to the [Netlify](https://www.netlify.com/) team for making an awesome all in one hosting soluiton for the JAM-stack.
+* Creds to the [Gridsome](https://gridsome.org/) team for developing a great foundation to build static sites.
+* Creds to [Evan You](https://twitter.com/youyuxi) for making [Vue](https://vuejs.org/).
+* Creds to [Cole Bemis](https://twitter.com/colebemis) for making [feathericons](https://feathericons.com/), my favourite icon set.
+* Creds to [Egoist](https://github.com/egoist), who's not that egoistic. Because he made [vue-feather-icons](https://github.com/egoist/vue-feather-icons).
+* Creds to [Forestry](https://forestry.io/) for finalizing the Forestry configuration and writing about it in the docs, adding their great headless CMS to the mix.
 
-Pessoas que podem tomar a vacina considerando riscos e benefícios e consultando o seu médico ou plano de saúde:
-- Gestantes
-- Pessoas com alguma condição de comprometimento do sistema imunológico
-- Mulheres em fase de amamentação
-- Pessoas com anticoagulantes
+## License
 
-Pessoas que devem seguir procedimentos especiais:
-- Alguém com histórico de alergia severa (que requere intervenção médica) a qualquer coisa além da vacina ou medicação injetável pode usar a vacina, mas eles precisam se manter no local de vacinação para observação por 30 minutos após receber a dose da vacina
-- Gestantes que desenvolveu alguma febre depois da vacinação deve tomar acetaminhophen (Mais detalhes na parte das perguntas relacionadas a gravidez)
-- Pessoas que tiveram COVID-19 recentemente e que foram tratadas com terapias baseadas em anticorpos, devem esperar 90 dias depois do tratamento para ser vacinado.
-- Pessoas com alguma exposição conhecida ao COVID-19 devem esperar até sua quarentena acabar para ser vacinado (ao menos que ele viva em um grupo, como enfermarias ou abrigos para sem-tetos, que neste caso podem ser vacinados durante o período de quarentena.
-- Pessoas que tiveram outra vacina (não Covid-19) deve esperar ao menos 14 dias antes de tomar uma vacina para COVID-19. Da mesma maneira, quem tomou uma vacina para o COVID-19, deve esperar 14 dias para tomar qualquer outra vacina.
+[MIT](https://github.com/samuelhorn/jamdocs/blob/master/LICENSE)
 
-## Quais são os efeitos colaterais da vacina?
-Os efeitos colaterais da vacina com RNA mensageiro são causadas como parte da resposta do nosso sistema imunológico dianate da vacina. Quanto mais vigorosa a resposta do sistema imune, mais comum são os efeitos colaterais.
+## Finally
 
-Os efeitos colaterais mais comuns da vacina de RNA mensageiro são:
-- Fadiga
-- Dor de cabeça
-- Dor muscular
-
-Os efeitos colaterais ocorrem durante a primeira semana após a vacinação, mas geralmente acontece de um a dois dias após receber a vacine. Os efeitos colaterais continuam na segunda dose e é mais comum em pessoas mais jovens ao invés das mais velhas. Mas vale ressaltar que a maioria das pessoas não terão efeitos colaterais significantes, assim algumas pessoas manifestam desejo de agendar suas vacinações, e assim elas não precisam avisar no trabalho de última hora se não se sentirem bem.
-
-## O quão bem a vacina de RNA Mensageiro funciona?
-Mais de 9 entre 10 pessoas vacinas durante os testes clínicos foram protegidas da doença. Este número pode decrescer a medida que é aplicada na população geral devido as condições do teste clínicos, que tendem a ser favoráveis, então eles são baseados no melhor cenário. Entretanto, é ainda esperado que a maioria das pessoas que obtenham ambas as doses da vacina, de acordo com o intervalo de tempo recomendado, será protegido.
-
-## Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?
-Todo mundo aidna precisará praticar as medidas recomendadas pelo órgão de saúde por um tempo, pois irá levar ainda um tempo para retardar ou parar o espalhamento do vírus. Dois fatores são importantes para entender o porquê.
-
-Mesmo que as vacinas sejam altamente efetivas em prevenir doenças, pode não prevenir infecções assintomáticas, e isto significa que pessoas vacinadas ainda podem ser infectadas, e que não tenham sintomas e, então, poderá espalhar o vírus. As empresas estão fazendo estudos adicionais para entender melhor se este é o caso.
-
-Cientistas estimam que, para controlar o COVID-19, 7 ou 8 pessoas entre dez precisam estar imunes. Se pegarmos a população americana como exemplo, temos 330 milhões de pessoas, e isto significa que quase 250 milhões precisaram estar imune para alcançar este objetivo. Entre Março e Novembro de 2020, quase 12 milhões de pessoas nos EUA foram infectadas, embora estudos de anticorpos sugerem que o número seja de 3-7 vezes maior. Apesar desta balha contra o vírus, isto mostra a quantidade de pessoas que precisam estar imune antes da gente esperar um maior controle no espalhamento do vírus COVID-19. Isto também mostra o quanto a vacina é importante em controlar a infecção, pois mais de 250,000 pessoas morream por conta do COVID-19 entre Março e Novembro de 2020. Se contarmos somente com a infecção para parar o espalhamento do vírus, morreram entre 1 milhão e 5.4 milhões de pessoas para a população se tornar imune.
-
-Por estas razões, há ainda um período em que as medidas de restrições terão de ser adotadas, como máscara, distanciamento social, e outras medidas recomenadas pelos órgãos de saúde, para poder diminuir ou até mesmo parar o espalhamento do vírus. E, pelo faot de ainda não sabermos se ainda podemos ser infectados depois da vacinação ou doenças anteriores, todos serão requisitados a seguir as regras. [Assista este vídeo do Dr. Offit sobre a necessidade de continuarmos o distanciamento social neste vídeo curto (em inglês)](https://www.chop.edu/centers-programs/vaccine-education-center/video/why-will-we-still-need-wear-masks-and-social-distance-after-covid-19-vaccine-becomes-available).
-
-## Quais tipos de vacina para COVID-19 estão sendo testadas?
-Há varios tipos de vacinas para COVID-19 sendo testadas atualmente.
-Aqui está um resumo das diferentes estratégias para criação da vacina:
-
-- Vacina inativa - O vírus inteiro é morto com uma substância e química e então ele é usado para fazer a vacina. Esta é a mesma estratégia que é usada pelas vacinas da poliomelite, hepatite A e vacina para raiva.
-- Vacina de subunidade - Um pedaço do vírus que é importante para imunidade, como um pedaço da proteína do COVID-19, é usado para fazer a vacina. Esta é a mesma estratégia que é usada para fazer a vacina para hepatite e a vacina do papiloma vírus.
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e cataporao
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vetor viral replicante - Neste caso, cientistas pegam um vírus não causa doença em pessoas (chamadas de vetores do vírus) e é adicionado um gene que codifica o pedaço da proteína. Genes são estados que a céula diz como fazer proteínas. Os pedaços da proteína para COVID-19 é importante por que anexa o vírus nas celulas. Quando a vacina é dada, o vetor do vírus reproduz nas células e o sistema imuna cria anticorpos contra as proteínas, que inclui o pedaço da proteína do COVID-19. Como resultado, os anticorpos se direcionam contra o pedaço da proteína que irá prevenir que o COVID-19 se anexe na célula, e então, isto previne a infecção. Esta é a mesma estratégia que é usada para fazer o vírus contra o Ebola. Para ver como este vídeo se reproduz na Céula, basta ver esta animação curta (em inglês).
-- Vacina viva enfraquecida - O vírus é desenvolvido em laboratório nas células diferentes daquelas que infecta pessoas. A medida que o vírus vai crescendo no laboratório, eles são capazes de se reproduzirem em pessoas. O vírus enfraquecido é então usado para fazer a vacina. Quando o vírus enfraquecido é dado as pessoas, ele pode se reproduzir o suficiente para gerar uma resposta imune, e o suficiente para não deixar a pessoa doente. Esta é a mesma estratégia que é usado para vacinas como a da caxumba, rubéola e catapora
-- Vetor viral não replicante - similar ao método viral replicante, com um gene inserido em um vetor do vírus, mas o vetor do vírus não reproduz no recipiente da vacina. Embora o vírus seja incapaz de fazer todas proteínas que precisa para se reproduzir, ele pode fazer algumas proteínas, incluindo aquele pedaço da proteína contra o COVID-19. Nenhuma vacina autorizada usa este método ainda.
-- Vacina DNA - o gene que codifica o pedaço da proteína é inserido em um pedaço pequeno de DNA, chamado plasmid, os plasmides são então injetados como vacinas. Ainda não há vacina utilizando este método.
-- Vacina de RNA mensageiro - Nesta abordagem, a vacina contém o RNA mensageiro, chamado de RNAm. O RNAm é processado em células para fazer proteínas. Uma vez que as proteínas são produzidas, o sistema imuna fará uma resposta para criar a imunidade. Neste caso, a proteína produzida é o pedaço da proteína que combate o COVID-19. As vacinas da Pfizer e Moderna para COVID-19 usam este método. Assista este vídeo do Dr. Offit que mostra como as vacinas RNAm funcionam.
-
-Veja mais sobre os tipos de vacina sendo testadas na apresentação do Dr. Offit, diretor do centro de educação em vacinas. 
-
-Fontes:
-- https://www.chop.edu/centers-programs/vaccine-education-center/making-vaccines/prevent-covid
-
+Enjoy Jamdocs, and if you like and use this project commercially, please consider sponsoring on Github since I have put a lot of spare time into this.
