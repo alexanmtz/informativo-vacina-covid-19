@@ -1,6 +1,6 @@
 {
-  "name": "jamdocs",
-  "private": true,
+  "name": "guia-informativo-vacina-covid",
+  "private": false,
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",

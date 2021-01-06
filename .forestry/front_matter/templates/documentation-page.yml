@@ -1,0 +1,35 @@
+---
+label: Documentation Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: MM/DD/YYYY
+    export_format: YYYY-MM-DD
+- type: text
+  name: slug
+  label: slug
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+pages:
+- docs/as-vacinas-de-rna-mensageiro-mrna-podem-modificar-o-dna-de-uma-pessoa.md
+- docs/colaboradores.md
+- docs/como-vacinas-que-usam-rna-mensageiro-mrna-funcionam.md
+- docs/fontes.md
+- docs/informativo-sobre-o-virus-da-covid-19-e-as-vacinas.md
+- docs/o-quao-bem-a-vacina-de-rna-mensageiro-funciona.md
+- docs/patrocine-este-projeto.md
+- docs/por-que-eu-nao-deveria-tomar-a-vacina-para-o-covid-19.md
+- docs/por-que-o-corpo-pararia-de-produzir-a-proteina-imunizante-para-o-covid-19-depois-de-se-aplicar-a-vacina-de-rna-mensageiro.md
+- docs/quais-sao-os-efeitos-colaterais-da-vacina.md
+- docs/quais-sao-os-ingredientes-da-nova-vacina-de-rna-mensageiro.md
+- docs/quais-tipos-de-vacina-para-covid-19-estao-sendo-testadas.md
+- docs/tecnologias.md
+- docs/uma-vez-tomada-a-vacina-estou-livre-das-restricoes-impostas-no-lockdown.md
