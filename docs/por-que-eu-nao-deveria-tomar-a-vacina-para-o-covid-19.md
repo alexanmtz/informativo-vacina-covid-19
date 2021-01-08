@@ -1,9 +1,10 @@
 ---
 title: Por que eu não deveria tomar a vacina para o COVID-19?
-date: 
+date: 2021-01-06
 slug: por-que-eu-nao-deveria-tomar-vacina-para-o-convid19
 tags:
 - FAQ
+published: true
 
 ---
 A maioria das pessoas podem tomar a vacina para o COVID-19, a medida que os grupos prioritários são vacinados. Mas, temos alguns grupos de pessoas que não deveriam tomar a vacina, e outras deveriam consultar o seu médico primeiro ou até tomar a vacina seguindo procedimentos especiais.
