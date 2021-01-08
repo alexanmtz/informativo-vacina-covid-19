@@ -204,9 +204,12 @@ ul {
 }
 
 .git {
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  display: flex;
+  flex-direction: columns;
+  align-content: space-around;
+  text-align: center;
+  display: block;
+  width: 100%;
 }
 </style>
 

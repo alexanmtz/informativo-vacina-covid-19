@@ -4,7 +4,7 @@
       <github-icon class="icon" />
       {{text}}
     </a>
-    <small style="display:inline-block; margin-left: 10px;">Foto da capa por <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/vaccine-corona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
+    <small style="display:inline-block; margin-left: 10px;">Foto da capa por <a class="photo-contrib1" href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> no <a class="photo-contrib2" href="https://unsplash.com/s/photos/vaccine-corona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
   </div>
 </template>
 
@@ -22,16 +22,25 @@ export default {
     },
     text: {
       type: String,
-      default: 'Fork me on Github'
+      default: 'Contribua no Github'
     }
   }
 }
 </script>
 
 <style lang="scss" scoped>
+.git {
+  text-align: center;
+}
+small {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
 a {
   display: inline-block;
   padding: 6px 10px;
+  margin: 4px 0;
   text-decoration: none;
   border-radius: 3px;
   font-size: 12px;
