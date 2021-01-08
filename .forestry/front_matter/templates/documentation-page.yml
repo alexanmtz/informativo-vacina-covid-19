@@ -22,6 +22,7 @@ fields:
   type: boolean
   label: published
 pages:
+- docs/a-vacina-podera-ser-aplicada-em-quem-esta-com-covid-19.md
 - docs/as-vacinas-de-rna-mensageiro-mrna-podem-modificar-o-dna-de-uma-pessoa.md
 - docs/colaboradores.md
 - docs/como-vacinas-que-usam-rna-mensageiro-mrna-funcionam.md
