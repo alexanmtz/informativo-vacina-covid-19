@@ -20,7 +20,7 @@ fields:
   label: tags
 - name: published
   type: boolean
-  label: Published
+  label: published
 pages:
 - docs/as-vacinas-de-rna-mensageiro-mrna-podem-modificar-o-dna-de-uma-pessoa.md
 - docs/colaboradores.md
