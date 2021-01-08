@@ -1,5 +1,5 @@
 <template>
-  <a href="https://github.com/samuelhorn/jamdocs" :class="size" title="Git-repository" aria-label="Jamdocs on Github">
+  <a href="https://github.com/alexanmtz/informativo-vacina-covid-19" :class="size" title="Git-repository" aria-label="Projeto de vacinação para Covid no Github">
     <github-icon class="icon" />
     {{text}}
   </a>
