@@ -4,6 +4,7 @@ date: 2021-01-02
 slug: uma-vez-tomada-a-vacina-estou-livre-do-lockdown
 tags:
 - FAQ
+published: true
 
 ---
 Todo mundo ainda precisará praticar as medidas recomendadas pelo órgão de saúde por um tempo, pois irá levar ainda um tempo para retardar ou parar o espalhamento do vírus. Dois fatores são importantes para entender o porquê.
