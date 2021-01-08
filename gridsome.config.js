@@ -16,7 +16,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Perguntas e respostas sobre a vacina para combater o Covid-19',
+  siteName: 'Perguntas e respostas sobre a vacina para combater o vírus da Covid-19',
   siteUrl: 'https://vacina-covid.com.br',
   templates: {
     Doc: '/:slug',
