@@ -1,6 +1,7 @@
 <template>
   <Layout :sidebar="true">
     <div class="content">
+      <g-image src="~/assets/img/vaccine-head.jpg" alt="logo" />
       <h1>{{ $static.metadata.siteName }}</h1>
       <small style="text-align: center; margin-bottom: 40px; margin-top: -40px"> {{ this.description }} </small>
       <nav>
@@ -55,7 +56,7 @@ export default {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: 'description', content: 'Um guia informativo sobre a vacinação contra o Covid-19 para ajudar no combate as fake news' }
       ]
     }
   }
@@ -71,7 +72,7 @@ export default {
 h1 {
   text-align: center;
   max-width: 600px;
-  margin: 1.5em auto 1.5em;
+  margin: .5em auto 1.5em;
 
   @include respond-above(md) {
     max-width: 1000px;

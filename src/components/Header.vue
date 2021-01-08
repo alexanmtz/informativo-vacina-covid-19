@@ -5,6 +5,29 @@
       <ThemeSwitch v-on:theme-change="updateLogo" />
       <MenuToggle v-if="menuToggle" />
     </nav>
+    <div class="share-buttons">
+      <small>Compartilhar</small>
+      <div class="items">
+        <twitter-button
+          url="https://vacinacaocovid.com.br"
+          description="Um guia informativo sobre a vacina para COVID-19"
+          class="share-button--outline"
+          
+        />
+        <facebook-button
+          url="https://vacinacaocovid.com.br"
+          description="Um guia informativo sobre a vacina para COVID-19"
+          class="share-button--outline"
+          
+        />
+        <whats-app-button
+          url="https://vacinacaocovid.com.br"
+          description="Um guia informativo sobre a vacina para COVID-19"
+          class="share-button--outline"
+          
+        />
+      </div>
+    </div>
   </header>
 </template>
 
@@ -13,12 +36,18 @@ import ThemeSwitch from '~/components/ThemeSwitch.vue'
 import MenuToggle from '~/components/MenuToggle.vue'
 import Logo from '~/components/Logo.vue'
 import throttle from 'lodash/throttle'
+import TwitterButton from "vue-share-buttons/src/components/TwitterButton";
+import FacebookButton from "vue-share-buttons/src/components/FacebookButton";
+import WhatsAppButton from "vue-share-buttons/src/components/WhatsAppButton"
 
 export default {
   components: {
     ThemeSwitch,
     MenuToggle,
-    Logo
+    Logo,
+    TwitterButton,
+    FacebookButton,
+    WhatsAppButton
   },
   props: {
     menuToggle: {
@@ -87,6 +116,20 @@ export default {
         border-color: shade($sidebarBright, 10%);
       }
     }
+  }
+}
+
+.share-buttons {
+  small {
+    display: block;
+    text-align: center;
+  }
+  position: absolute;
+  right: 20px;
+  top: 300px;
+  .items {
+    text-align: center;
+    width: 160px;
   }
 }
 

@@ -56,7 +56,7 @@ export default {
   @include respond-above(sm) {
     padding: 100px 30px 30px;
     transform: translateX(300px);
-    width: calc(100% - 300px);
+    width: calc(100% - 400px);
   }
 
   @include respond-above(md) {

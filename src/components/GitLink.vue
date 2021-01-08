@@ -1,8 +1,11 @@
 <template>
-  <a href="https://github.com/alexanmtz/informativo-vacina-covid-19" :class="size" title="Git-repository" aria-label="Projeto de vacinação para Covid no Github">
-    <github-icon class="icon" />
-    {{text}}
-  </a>
+  <div>
+    <a href="https://github.com/alexanmtz/informativo-vacina-covid-19" :class="size" title="Git-repository" aria-label="Projeto de vacinação para Covid no Github">
+      <github-icon class="icon" />
+      {{text}}
+    </a>
+    <small style="display:inline-block; margin-left: 10px;">Foto da capa por <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/vaccine-corona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
+  </div>
 </template>
 
 <script>
