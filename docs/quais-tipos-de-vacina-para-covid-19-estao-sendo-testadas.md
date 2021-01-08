@@ -7,7 +7,7 @@ tags:
 published: true
 
 ---
-Há varios tipos de vacinas para COVID-19 sendo testadas atualmente. Aqui está um resumo das diferentes estratégias para criação da vacina:
+Há vários tipos de vacinas para COVID-19 sendo testadas atualmente. Aqui está um resumo das diferentes estratégias para criação da vacina:
 
 * **Vacina inativa** - O vírus inteiro é morto com uma substância e química e então ele é usado para fazer a vacina. Esta é a mesma estratégia que é usada pelas vacinas da poliomelite, hepatite A e vacina para raiva.
 * **Vacina de subunidade** - Um pedaço do vírus que é importante para imunidade, como um pedaço da proteína do COVID-19, é usado para fazer a vacina. Esta é a mesma estratégia que é usada para fazer a vacina para hepatite e a vacina do papiloma vírus.
