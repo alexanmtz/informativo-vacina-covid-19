@@ -4,6 +4,7 @@ date: 2021-01-02
 slug: as-vacinas-podem-modificar-o-dna-de-uma-pessoa
 tags:
 - FAQ
+published: true
 
 ---
 Como o _mRNA_ é ativo somente no citoplasma da célula e o DNA é localizado no núcleo, as vacinas produzidas com o _mRNA_ não operam no mesmo compartimento celular onde o DNA está localizado.

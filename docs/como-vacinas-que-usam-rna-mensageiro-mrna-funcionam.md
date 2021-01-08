@@ -4,6 +4,7 @@ date: 2021-01-02
 slug: como-as-vacinas-rnam-funcionam
 tags:
 - FAQ
+published: true
 
 ---
 Pessoas fazem _mRNA_ o tempo todo. Em nossas células, o DNA que está no núcleo é usado para fazer _mRNA_, que é enviado para o citoplasma onde serve de base para fabricar proteínas. Na maioria das vezes, as proteínas que são produzidas são necessárias para as funções do corpo.
