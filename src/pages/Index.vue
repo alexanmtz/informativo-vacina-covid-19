@@ -23,7 +23,7 @@ query {
   metadata {
     siteName
   },
-  docs: allDoc(filter: { tags: {contains: "FAQ" }, published: true }) {
+  docs: allDoc(filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
     edges {
       node {
         title,
