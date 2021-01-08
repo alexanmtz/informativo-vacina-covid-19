@@ -6,7 +6,9 @@ tags: []
 published: false
 
 ---
-Este projeto foi construído com o [Jamdocs](https://github.com/samuelhorn/jamdocs "Jam Docs") para construção de um site estático com o [Vuex](https://vuex.vuejs.org/ "Vuex") e [GraphQL](https://graphql.org/ "GraphQL"), editado no [Forestry](https://forestry.io/ "Forestry"). 
+Este projeto foi construído com o [Jamdocs](https://github.com/samuelhorn/jamdocs "Jam Docs") para construção de um site estático com o [Vuex](https://vuex.vuejs.org/ "Vuex") e [GraphQL](https://graphql.org/ "GraphQL"), editado no [Forestry](https://forestry.io/ "Forestry").
+
+O projeto está hospedado gratuitamento no [Github Pages](https://pages.github.com/), sendo enviado para produção usando [Github Actions](https://github.com/features/actions "Github Actions") para gerar o conteúdo estático.
 
 ![](/forestry-front-matter-template.png)
 
