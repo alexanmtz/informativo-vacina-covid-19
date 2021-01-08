@@ -23,13 +23,14 @@ query {
   metadata {
     siteName
   },
-  docs: allDoc(filter: { tags: {contains: "FAQ", published: true } }) {
+  docs: allDoc(filter: { tags: {contains: "FAQ" }, published: true }) {
     edges {
       node {
         title,
         slug,
         path,
-        tags
+        tags,
+        published
       }
     }
   }
