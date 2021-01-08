@@ -22,6 +22,7 @@ fields:
   type: boolean
   label: published
 pages:
+- docs/a-vacina-contra-a-covid-19-possui-microchip.md
 - docs/a-vacina-de-rnam-para-covid-19-cause-infertilidade.md
 - docs/a-vacina-podera-ser-aplicada-em-quem-esta-com-covid-19.md
 - docs/as-mutacoes-do-coronavirus-afetarao-a-capacidade-da-vacina-de-prevenir-a-doenca.md
