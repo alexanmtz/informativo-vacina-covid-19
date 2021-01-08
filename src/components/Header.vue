@@ -5,29 +5,30 @@
       <ThemeSwitch v-on:theme-change="updateLogo" />
       <MenuToggle v-if="menuToggle" />
     </nav>
-    <div class="share-buttons">
-      <small>Compartilhar</small>
-      <div class="items">
-        <twitter-button
-          url="https://vacinacaocovid.com.br"
-          description="Um guia informativo sobre a vacina para COVID-19"
-          class="share-button--outline"
-          
-        />
-        <facebook-button
-          url="https://vacinacaocovid.com.br"
-          description="Um guia informativo sobre a vacina para COVID-19"
-          class="share-button--outline"
-          
-        />
-        <whats-app-button
-          url="https://vacinacaocovid.com.br"
-          description="Um guia informativo sobre a vacina para COVID-19"
-          class="share-button--outline"
-          
-        />
+    <ClientOnly>
+      <div class="share-buttons">
+        <small>Compartilhar</small>
+        <div class="items">
+          <twitter-button
+            shareUrl="https://vacinacaocovid.com.br"
+            shareDescription="Um guia informativo sobre a vacina para COVID-19"
+            class="share-button--outline"
+            
+          />
+          <facebook-button
+            url="https://vacinacaocovid.com.br"
+            description="Um guia informativo sobre a vacina para COVID-19"
+            class="share-button--outline"
+            
+          />
+          <whats-app-button
+            url="https://vacinacaocovid.com.br"
+            class="share-button--outline"
+            
+          />
+        </div>
       </div>
-    </div>
+    </ClientOnly>
   </header>
 </template>
 
