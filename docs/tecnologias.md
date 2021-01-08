@@ -10,8 +10,6 @@ Este projeto foi construído com o [Jamdocs](https://github.com/samuelhorn/jamdo
 
 O projeto está hospedado gratuitamento no [Github Pages](https://pages.github.com/), sendo enviado para produção usando [Github Actions](https://github.com/features/actions "Github Actions") para gerar o conteúdo estático.
 
-![](/forestry-front-matter-template.png)
-
 O conteúdo é editado no Forestry, então se deseja participar do conteúdo, você pode falar com a gente enviando um e-mail para [alexanmtz@gmail.com](mailto:alexanmtz@gmail.com "Enviar email").
 
 O conteúdo também está disponível como Markdown no Github:  
