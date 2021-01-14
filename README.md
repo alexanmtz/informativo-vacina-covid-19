@@ -30,6 +30,14 @@ Este projeto foi configurado para o [Forestry](https://forestry.io). As mudança
 Veja a documentação do Forestry usando o Jamdocs:
 ![Forestry documentation in JAMdocs](static/screenshor-forestry-preview.png)
 
+## Suporte
+
+Você pode ajudar com este projeto para pagarmos pelo desenvolvimento e manutenção, bem como melhorias.
+
+Basta acessar o nosso Open Collective: https://opencollective.com/informativo-vacina-covid
+
+[![](https://opencollective.com/informativo-vacina-covid/contributors.svg?width=890&button=true)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
+
 ## Créditos
 
 * Créditos para o time do [Gridsome](https://gridsome.org/) para criar esta solução para construir websites estáticos.
