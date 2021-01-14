@@ -1,5 +1,5 @@
 ---
-title: Por que eu não deveria tomar a vacina para o COVID-19?
+title: Teria algum motivo para não tomar a vacina para o COVID-19?
 date: 2021-01-06
 slug: por-que-eu-nao-deveria-tomar-vacina-para-o-covid19
 tags:
