@@ -1,16 +1,18 @@
-# ![Jamdocs](https://vacinacaocovid.com.br/assets/static/logo-dark.c090db8.5d62c581ac1989bf83a9dfc7adc21452.svg)
+# ![Informativo sobre vacinação para Covid-19](https://vacinacaocovid.com.br/assets/static/logo-dark.c090db8.5d62c581ac1989bf83a9dfc7adc21452.svg)
 
-The ultimate static generated documentation theme for the JAM-stack. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.samuelhorn.com/)
+Este projeto tem o intuito de informar através de perguntas e respostas as questões sobre a vacinação da Covid, com as dúvidas mais recorrentes da população.
 
-_Beware, Jamdocs is still in heavy development and will probably change a lot in the near future. And the docs for it is still not completed._
+_Este projeto foi construído com o Jamdocs: https://github.com/samuelhorn/jamdocs._
 
-## Fast by default
+## Propósito
 
-Jamdocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
+Com o intuito de combater as fakenews, fiz este informativo para esclarecer melhor todas dúvidas em relação a vacinação contra o COVID-19
 
-![100/100/100/100 Lighthouse scores](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/pagespeed.png)
+## Especificações do projeto
 
-## Local installation for development
+O projeto foi desenvolvido com o Vuex, usando um CMS headless, que não possui banco de dados e é publicado gratuitamente no Github com uma Action de deploy dos estáticos no Githubpages.
+
+## Como rodar o projeto localmente
 
 1. `git clone https://github.com/samuelhorn/jamdocs project-name`.
 2. `cd project-name`
