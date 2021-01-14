@@ -1,6 +1,10 @@
 # ![Informativo sobre vacinação para Covid-19](https://vacinacaocovid.com.br/assets/static/logo-dark.c090db8.5d62c581ac1989bf83a9dfc7adc21452.svg)
 
+https://vacinacaocovid.com.br
+
 Este projeto tem o intuito de informar através de perguntas e respostas as questões sobre a vacinação da Covid, com as dúvidas mais recorrentes da população.
+
+Se você gostaria de ver aqui algum conteúdo e tem alguma sugestão, você pode [iniciar uma discussão aqui](https://github.com/alexanmtz/informativo-vacina-covid-19/discussions).
 
 _Este projeto foi construído com o Jamdocs: https://github.com/samuelhorn/jamdocs._
 
@@ -14,46 +18,28 @@ O projeto foi desenvolvido com o Vuex, usando um CMS headless, que não possui b
 
 ## Como rodar o projeto localmente
 
-1. `git clone https://github.com/samuelhorn/jamdocs project-name`.
-2. `cd project-name`
-3. `gridsome develop`.
+1. `git clone https://github.com/alexanmtz/informativo-vacina-covid-19.git`.
+2. `cd informativo-vacina-covid-19`
+3. `yarn`
+4. `gridsome develop`.
 
-## Deploy to Netlify
+## Textos editados no Forestry.io
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/samuelhorn/jamdocs)
+Este projeto foi configurado para o [Forestry](https://forestry.io). As mudanças feitas no Forestry são enviadas diretamente para o repositório e publicado no site. ✨
 
-## Import to Forestry CMS
-
-[![](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=samuelhorn/jamdocs&engine=other "Import to Forestry")
-
-This project has been pre-configured to work with [Forestry](https://forestry.io). Any changes you make in Forestry will be commited back to your repo. ✨
-
+Veja a documentação do Forestry usando o Jamdocs:
 ![Forestry documentation in JAMdocs](static/screenshor-forestry-preview.png)
 
-## Setup & configuration
+## Créditos
 
-See the [demo](https://jamdocs.samuelhorn.com/), which is also the documentation, obviously!
-
-## Todos
-
-1. Improve the actual documentation for Jamdocs, in Jamdocs :)
-2. ~~Build the homepage better, dividing stuff into components and so on.~~
-3. Implement Algolia search.
-4. ~~Add a link to this repository from the demo.~~
-
-## Credits
-
-* Creds to the [Netlify](https://www.netlify.com/) team for making an awesome all in one hosting soluiton for the JAM-stack.
-* Creds to the [Gridsome](https://gridsome.org/) team for developing a great foundation to build static sites.
-* Creds to [Evan You](https://twitter.com/youyuxi) for making [Vue](https://vuejs.org/).
-* Creds to [Cole Bemis](https://twitter.com/colebemis) for making [feathericons](https://feathericons.com/), my favourite icon set.
-* Creds to [Egoist](https://github.com/egoist), who's not that egoistic. Because he made [vue-feather-icons](https://github.com/egoist/vue-feather-icons).
-* Creds to [Forestry](https://forestry.io/) for finalizing the Forestry configuration and writing about it in the docs, adding their great headless CMS to the mix.
+* Créditos para o time do [Gridsome](https://gridsome.org/) para criar esta solução para construir websites estáticos.
+* Créditos para [Evan You](https://twitter.com/youyuxi) por ter criado o [Vue](https://vuejs.org/).
+* Créditos para o [Forestry](https://forestry.io/) para criar uma solução amigável para edição de conteúdo Markdown e integrar ao Github.
 
 ## License
 
-[MIT](https://github.com/samuelhorn/jamdocs/blob/master/LICENSE)
+[Apache](https://github.com/alexanmtz/informativo-vacina-covid-19/blob/main/LICENSE)
 
-## Finally
+## Contribuição
 
-Enjoy Jamdocs, and if you like and use this project commercially, please consider sponsoring on Github since I have put a lot of spare time into this.
+Se desejar contribuir, achar algum erro, você pode enviar um pull request. E se deseja ajudar na tradução dos artigos que compõe este site, entre em contato comigo através do meu email: alexanmtz@gmail.com
