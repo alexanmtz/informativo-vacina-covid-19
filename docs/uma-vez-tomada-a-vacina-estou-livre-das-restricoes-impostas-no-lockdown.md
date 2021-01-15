@@ -7,6 +7,8 @@ tags:
 published: true
 
 ---
+![](/crowd-lockdown.jpg)
+
 Todo mundo ainda precisará praticar as medidas recomendadas pelo órgão de saúde por um tempo, pois irá levar ainda um tempo para retardar ou parar o espalhamento do vírus. Dois fatores são importantes para entender o porquê.
 
 1. Mesmo que as vacinas sejam altamente efetivas em prevenir doenças, pode não prevenir infecções assintomáticas, e isto significa que pessoas vacinadas ainda podem ser infectadas, e que não tenham sintomas e, então, poderá espalhar o vírus. As empresas estão fazendo estudos adicionais para entender melhor se este é o caso.
@@ -15,3 +17,5 @@ Todo mundo ainda precisará praticar as medidas recomendadas pelo órgão de sa�
 Por estas razões, há ainda um período em que as medidas de restrições terão de ser adotadas, como máscara, distanciamento social, e outras medidas recomendadas pelos órgãos de saúde, para poder diminuir ou até mesmo parar o espalhamento do vírus. E, pelo fato de ainda não sabermos se ainda podemos ser infectados depois da vacinação ou doenças anteriores, todos serão requisitados a seguir as regras.
 
 [Assista este vídeo do Dr. Offit sobre a necessidade de continuarmos o distanciamento social neste vídeo curto (em inglês)](https://www.chop.edu/centers-programs/vaccine-education-center/video/why-will-we-still-need-wear-masks-and-social-distance-after-covid-19-vaccine-becomes-available).
+
+Foto: [mauro mora](https://unsplash.com/@mauromora?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
