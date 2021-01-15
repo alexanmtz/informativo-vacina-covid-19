@@ -29,6 +29,10 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
+          "title": "Vacinas podem alterar o DNA de uma pessoa?",
+          "slug": "vacinas-dna-alterar-dna-pessoa"
+        },
+        {
           "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
           "slug": "como-as-vacinas-rnam-funcionam"
         },
