@@ -7,9 +7,11 @@ slug: vacinas-dna-alterar-dna-pessoa
 published: true
 
 ---
+![](/dna-vaccine-image.png)
+
 As vacinas que usam DNA fazem parte de um dos tipos de vacina que estão sendo testadas para combater o vírus da COVID-19. As vacinas de DNA podem oferecer vantagens comparados aos outros tipos de vacina sendo desenvolvidas, pois elas não precisam do vírus ou parte dele para produzir uma resposta imune. Outras vacinas de DNA sendo desenvolvidas (incluindo a feita para influenza, HPV e HIV) tem sido extensivamente testada em animais e em pessoas e se demonstraram seguras.
 
-Algumas pessoas tem uma grande preocupação sobre o fato da vacina de DNA alterar o nosso DNA existente. Sobre o fato de que o DNA da vacina é tratado como um DNA humano na célula, temos dois pontos importantes a se considerar: 
+Algumas pessoas tem uma grande preocupação sobre o fato da vacina de DNA alterar o nosso DNA existente. Sobre o fato de que o DNA da vacina é tratado como um DNA humano na célula, temos dois pontos importantes a se considerar:
 
 Primeiramente, as vacinas de DNA não funcionaram bem historicamente como os outros tipos de vacina, pois há uma grande dificuldade de se obter DNA suficiente para serem introduzidos na vacina para adquirir uma forte resposta imune.
 
