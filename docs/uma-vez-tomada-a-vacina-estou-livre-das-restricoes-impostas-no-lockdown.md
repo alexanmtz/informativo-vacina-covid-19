@@ -5,6 +5,7 @@ slug: uma-vez-tomada-a-vacina-estou-livre-do-lockdown
 tags:
 - FAQ
 published: true
+image: ''
 
 ---
 ![](/crowd-lockdown.jpg)
