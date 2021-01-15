@@ -7,11 +7,15 @@ slug: pessoa-vacinada-e-capaz-de-espalhar-o-virus
 published: false
 
 ---
-People will not spread the virus after vaccination with the mRNA vaccines since they are not live vaccines that reproduce the whole virus in the body.
+![](/vaccine-protection.jpg)
 
-But, we do not yet know if the COVID-19 mRNA vaccines prevent infection or if they only prevent disease:
+Pessoas vacinadas não espalharão o vírus depois da vacinação com uma vacina usando RNAm, pois usando este método eles não possuíram vacinas vivas que irão produzir o vírus no corpo.
 
-* Disease means people experience symptoms of illness.
-* Infection means that a virus can infect a person’s cells and reproduce, but the person may or may not have symptoms or be contagious.
+Mas ainda não sabemos se a vacina para COVID-19 usando RNA previne a infecção ou eles irão na verdade prevenir a doença:
 
-If the COVID-19 mRNA vaccines only prevent disease, a person could be infected following an exposure and potentially spread the virus. Additional studies will be completed to determine whether the vaccines prevent infection as well as disease. However, given this uncertainty, vaccinated people will still need to use masks and practice social distancing measures for some time.
+* Prevenir a doença significa pessoas com sintomas de doenças
+* Infeção significa que o vírus pode infectar a célula de uma pessoa e reproduzir, mas a pessoa pode não ter sintomas mas ainda sim espalhar o vírus
+
+Se a vacina de RNA previne apenas a doença, a pessoa poderia ser infectada se for exposta e pode espalhar o vírus. Estudos adicionais estão sendo feitos para saber se a vacina previne a infecção e a doença. Entretanto, com esta incerteza, pessoas vacinas devem tomar todas medidas de precaução, como uso de máscara e distanciamento social por algum tempo.
+
+Foto: [Sam Moqadam](https://unsplash.com/@itssammoqadam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/vaccine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
