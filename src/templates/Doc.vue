@@ -32,7 +32,7 @@ query Doc ($path: String!) {
 <script>
 export default {
   metaInfo() {
-    const imagePath = `${this.$static.metadata.siteUrl}/main-image.jpg`
+    const imagePath = `${this.$static.metadata.siteUrl}`
     return {
       title: this.$page.doc.title,
       meta: [
@@ -40,7 +40,7 @@ export default {
         {
           key: 'og:image',
           property: 'og:image',
-          content: `${imagePath}/${this.$page.doc.image}`
+          content: `${imagePath}${this.$page.doc.image}`
         }, 
       ]
     }
