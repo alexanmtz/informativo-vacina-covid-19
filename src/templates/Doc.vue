@@ -36,7 +36,7 @@ export default {
     return {
       title: this.$page.doc.title,
       meta: [
-        { key: 'description', name: 'description', content: this.$page.doc.description },
+        { key: 'description', name: 'description', content: this.$page.doc.title },
         {
           key: 'og:image',
           property: 'og:image',
