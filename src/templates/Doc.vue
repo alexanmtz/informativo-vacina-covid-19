@@ -4,6 +4,7 @@
       {{ $page.doc.title }}
     </h1>
      <div class="markdown" v-html="$page.doc.content" />
+     <small>Última atualização: <i v-html="$page.doc.date" /></small>
   </Layout>
 </template>
 
@@ -22,7 +23,7 @@ query Doc ($path: String!) {
     title
     path
     image,
-    date (format: "D. MMMM YYYY")
+    date (format: "D  MMMM YYYY", locale: "pt-BR")
     timeToRead
     content
   }
