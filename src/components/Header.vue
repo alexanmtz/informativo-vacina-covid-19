@@ -128,9 +128,21 @@ export default {
   position: absolute;
   right: 20px;
   top: 300px;
+  text-align: center;
   .items {
     text-align: center;
     width: 160px;
+  }
+  @include respond-below(sm) {
+    top: 600px;
+    right: 0;
+    width: 100%;
+    padding: 10px;
+    
+    background: rgba(216, 234, 245, 0.95);
+    .items {
+      display: inline;
+    }
   }
 }
 

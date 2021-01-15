@@ -76,6 +76,10 @@ export default {
 .content {
   display: flex;
   flex-direction: column;
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 h1 {

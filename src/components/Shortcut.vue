@@ -46,6 +46,7 @@ article {
     border-radius: 3px;
     text-align: center;
     transition: background .15s ease-in-out, border-color .15s ease-in-out;
+    min-width: 30%;
 
     @include respond-above(sm) {
       margin: 0 1em 2em;
@@ -67,7 +68,7 @@ a {
 }
 
 svg {
-  width: 2em;
+  width: 100%;
   height: 2em;
   margin-bottom: 1em;
 
