@@ -29,7 +29,11 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
-          "title": "Quais os ingredientes da Vacina de RNAm",
+          "title": "O corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
+          "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
+        },
+        {
+          "title": "Quais são os ingredientes da nova vacina de RNA mensageiro?",
           "slug": "quais-sao-os-ingredientes-vacina-rnam"
         },
         {
@@ -47,10 +51,6 @@
         {
           "title": "Por que o corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
           "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
-        },
-        {
-          "title": "Quais são os ingredientes da nova vacina de RNA mensageiro?",
-          "slug": "quais-sao-os-ingredientes-vacina-rnam"
         },
         {
           "title": "Por que eu não deveria tomar a vacina para o COVID-19?",
