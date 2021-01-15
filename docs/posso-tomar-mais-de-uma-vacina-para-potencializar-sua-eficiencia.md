@@ -5,6 +5,7 @@ title: Posso tomar mais de uma vacina para potencializar sua eficiência?
 date: 2021-01-06
 slug: posso-tomar-mais-de-uma-vacina
 published: true
+image: ''
 
 ---
 ![](/vaccine-covid.jpg)
