@@ -5,6 +5,7 @@ title: Vacinas de DNA podem mudar o DNA de uma pessoa?
 date: 2021-01-06
 slug: vacinas-dna-alterar-dna-pessoa
 published: true
+image: "/national-cancer-institute-tv-rx0bedp8-unsplash.jpg"
 
 ---
 ![](/dna-vaccine-image.png)
