@@ -7,6 +7,15 @@
   </Layout>
 </template>
 
+<static-query>
+query {
+  metadata {
+    siteName,
+    siteUrl
+  }
+}
+</static-query>
+
 <page-query>
 query Doc ($path: String!) {
   doc: doc (path: $path) {
