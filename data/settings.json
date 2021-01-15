@@ -29,15 +29,7 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
-          "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
-          "slug": "como-as-vacinas-rnam-funcionam"
-        },
-        {
-          "title": "As vacinas de RNA mensageiro (mRNA) podem modificar o DNA de uma pessoa?",
-          "slug": "as-vacinas-podem-modificar-o-dna-de-uma-pessoa"
-        },
-        {
-          "title": "Por que o corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
+          "title": "O corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
           "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
         },
         {
@@ -45,7 +37,35 @@
           "slug": "quais-sao-os-ingredientes-vacina-rnam"
         },
         {
-          "title": "Por que eu não deveria tomar a vacina para o COVID-19?",
+          "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
+          "slug": "como-as-vacinas-rnam-funcionam"
+        },
+        {
+          "title": "Vacinas podem alterar o DNA de uma pessoa?",
+          "slug": "vacinas-dna-alterar-dna-pessoa"
+        },
+        {
+          "title": "As vacinas de RNA mensageiro (mRNA) podem modificar o DNA de uma pessoa?",
+          "slug": "as-vacinas-podem-modificar-o-dna-de-uma-pessoa"
+        },
+        {
+          "title": "Se eu já contraí o vírus, eu ainda vou precisar ser vacinado?",
+          "slug": "se-contrai-o-virus-vou-precisar-ser-vacinado"
+        },
+        {
+          "title": "Quantas doses da vacina serão necessárias?",
+          "slug": "quantas-doses-da-vacina-serao-necessarias"
+        },
+        {
+          "title": "Quais empresas estão trabalhando em uma vacina contra a COVID-19?",
+          "slug": "quais-empresas-trabalhando-na-vacina-covid"
+        },
+        {
+          "title": "Posso tomar mais de uma vacina para potencializar sua eficiência?",
+          "slug": "posso-tomar-mais-de-uma-vacina"
+        },
+        {
+          "title": "Teria algum motivo para não tomar a vacina para o COVID-19?",
           "slug": "por-que-eu-nao-deveria-tomar-vacina-para-o-covid19"
         },
         {
@@ -55,6 +75,10 @@
         {
           "title": "O quão bem a vacina de RNA Mensageiro funciona?",
           "slug": "o-quao-bem-a-vacina-de-rnam-funciona"
+        },
+        {
+          "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
+          "slug": "como-as-vacinas-rnam-funcionam"
         },
         {
           "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",

@@ -5,6 +5,7 @@ slug: quais-tipos-de-vacina-estao-sendo-testadas
 tags:
 - FAQ
 published: true
+image: "/azazello-bq-exfab_kidwc-unsplash.jpg"
 
 ---
 ![](/vaccines-types.jpg)

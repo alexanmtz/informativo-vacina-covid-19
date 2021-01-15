@@ -5,6 +5,7 @@ slug: quais-sao-os-ingredientes-vacina-rnam
 tags:
 - FAQ
 published: true
+image: "/azazello-bq-exfab_kidwc-unsplash.jpg"
 
 ---
 ![](/vaccine-ingredients.jpg)

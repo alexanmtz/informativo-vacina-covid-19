@@ -5,6 +5,7 @@ slug: uma-vez-tomada-a-vacina-estou-livre-do-lockdown
 tags:
 - FAQ
 published: true
+image: "/mauro-mora-31-poduwzge-unsplash.jpg"
 
 ---
 ![](/crowd-lockdown.jpg)

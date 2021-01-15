@@ -4,7 +4,8 @@ tags:
 title: Quantas doses da vacina serão necessárias?
 date: 2021-01-06
 slug: quantas-doses-da-vacina-serao-necessarias
-published: false
+published: true
+image: "/bermix-studio-yhtda4fiv3o-unsplash.jpg"
 
 ---
 ![](/vaccine-look.jpg)
