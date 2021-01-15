@@ -7,6 +7,10 @@ slug: quantas-doses-da-vacina-serao-necessarias
 published: false
 
 ---
-The mRNA vaccines require two doses. For the Pfizer vaccine, doses should be separated by 21 days. For Moderna’s vaccine, doses should be separated by 28 days. The two mRNA vaccines are not interchangeable. A person should be sure they know which one they got as the first dose and be clear about when they should return for the second dose, particularly because the vaccines require both doses to have the best protection.
+![](/vaccine-look.jpg)
 
-Some COVID-19 vaccines being evaluated only require a single dose, but the clinical trials will provide more information about how many doses of each vaccine will be needed.
+A vacina de RNAm requer duas doses. Para a vacina da Pfizer, as doses deverão ter um intervalo de 21 dias. As vacinas da Morena, as doses terão um intervalo de 28 dias. As vacinas de RNAm não são complementares. As pessoas que tomam a primeira dose devem estar cientes sobre o retorno para a segunda dose, pois as vacinas requerem duas doses para ter a melhor proteção.
+
+Algumas vacinas para COVID-19 sendo pesquisadas requerem uma única dose, mas os testes dirão melhor quantas doses serão necessárias.
+
+_Foto:_ [Bermix Studio](https://unsplash.com/@bermixstudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/vaccine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
