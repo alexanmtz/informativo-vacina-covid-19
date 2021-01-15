@@ -18,3 +18,5 @@ Primeiramente, as vacinas de DNA não funcionaram bem historicamente como os out
 Segundo, mesmo quando é introduzido com sucesso, as vacinas de DNA entram somente em algumas células, que então produz proteínas virais que, uma vez sintetizada e lançada fora da célula, ativa o sistema imune para gerar nossa imunidade.
 
 Sendo assim, essas preocupações relacionadas a alteração do DNA da pessoa são teorias sem evidência. Todas as vacinas precisam ser testadas massivamente antes da aprovação, e os mesmos padrões serão aplicados para vacinas de DNA para qualquer outra vacina além da COVID-19. E com isso saberemos quando as vacinas de DNA serão úteis para o COVID-19.
+
+_Foto:_ [National Cancer Institute](https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/dna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
