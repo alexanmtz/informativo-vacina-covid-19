@@ -37,16 +37,20 @@
           "slug": "quais-sao-os-ingredientes-vacina-rnam"
         },
         {
-          "title": "Vacinas podem alterar o DNA de uma pessoa?",
-          "slug": "vacinas-dna-alterar-dna-pessoa"
-        },
-        {
           "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
           "slug": "como-as-vacinas-rnam-funcionam"
         },
         {
+          "title": "Vacinas podem alterar o DNA de uma pessoa?",
+          "slug": "vacinas-dna-alterar-dna-pessoa"
+        },
+        {
           "title": "As vacinas de RNA mensageiro (mRNA) podem modificar o DNA de uma pessoa?",
           "slug": "as-vacinas-podem-modificar-o-dna-de-uma-pessoa"
+        },
+        {
+          "title": "Se eu já contraí o vírus, eu ainda vou precisar ser vacinado?",
+          "slug": "se-contrai-o-virus-vou-precisar-ser-vacinado"
         },
         {
           "title": "Por que o corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
