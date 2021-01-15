@@ -5,6 +5,7 @@ title: Quanto tempo irá durar a imunidade contra o vírus da COVID-19?
 date: 2021-01-06
 slug: quanto-tempo-ira-durar-a-imunidade-contra-o-virus-da-covid19
 published: false
+image: "/mladen-borisov-rzbuuap2jxy-unsplash.jpg"
 
 ---
 ![](/immune-system-covid.jpg)
