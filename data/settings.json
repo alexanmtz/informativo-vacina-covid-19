@@ -29,6 +29,10 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
+          "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
+          "slug": "como-as-vacinas-rnam-funcionam"
+        },
+        {
           "title": "O corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
           "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
         },
