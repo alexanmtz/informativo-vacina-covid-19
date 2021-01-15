@@ -3,6 +3,6 @@ import plugin_gridsome_plugin_google_analytics_6 from "/Users/alexandremagno/pro
 export default [
   {
     run: plugin_gridsome_plugin_google_analytics_6,
-    options: {"id":"G-WP1P0Q52VW"}
+    options: {"id":"UA-2886643-4"}
   }
 ]

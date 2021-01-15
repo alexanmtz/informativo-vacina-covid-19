@@ -3,7 +3,9 @@
     <div class="content">
       <g-image src="~/assets/img/vaccine-head.jpg" alt="logo" />
       <h1>{{ $static.metadata.siteName }}</h1>
-      <small style="text-align: center; margin-bottom: 40px; margin-top: -40px"> {{ this.description }} </small>
+      <small style="text-align: center; margin-top: -40px; padding-bottom: 20px;"> {{ this.description }} </small>
+      <small style="color: gray; text-align: center;">* Este site não representa nenhum órgão oficial do governo e é feito como iniciativa open-source por uma pessoa física</small>
+      <small style="color: gray; text-align: center; margin-bottom: 20px;">* O conetúddo não é de nossa responsabilidade e foi feito de forma colaborativa pela comunidade</small>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut 
@@ -22,7 +24,8 @@
 
 query {
   metadata {
-    siteName
+    siteName,
+    siteUrl
   },
   docs: allDoc(filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
     edges {
@@ -53,10 +56,16 @@ export default {
     }
   },
   metaInfo() {
+    const imagePath = `${siteUrl}/assets/images/main-image.jpg`
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'Um guia informativo sobre a vacinação contra o Covid-19 para ajudar no combate as fake news' }
+        { key: 'description', name: 'description', content: 'Um guia informativo sobre a vacinação contra o Covid-19 para ajudar no combate as fake news' },
+        {
+          key: 'og:image',
+          property: 'og:image',
+          content: imagePath
+        },
       ]
     }
   }
