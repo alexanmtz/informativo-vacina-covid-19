@@ -7,6 +7,8 @@ tags:
 published: true
 
 ---
+![](/vaccines-types.jpg)
+
 Há vários tipos de vacinas para COVID-19 sendo testadas atualmente. Aqui está um resumo das diferentes estratégias para criação da vacina:
 
 * **Vacina inativa** - O vírus inteiro é morto com uma substância e química e então ele é usado para fazer a vacina. Esta é a mesma estratégia que é usada pelas vacinas da poliomelite, hepatite A e vacina para raiva.
@@ -21,3 +23,5 @@ Há vários tipos de vacinas para COVID-19 sendo testadas atualmente. Aqui está
 * **Vacina de RNA mensageiro** - Nesta abordagem, a vacina contém o RNA mensageiro, chamado de RNAm. O RNAm é processado em células para fazer proteínas. Uma vez que as proteínas são produzidas, o sistema imuna fará uma resposta para criar a imunidade. Neste caso, a proteína produzida é o pedaço da proteína que combate o COVID-19. As vacinas da Pfizer e Moderna para COVID-19 usam este método. [Assista este vídeo do Dr. Offit que mostra como as vacinas RNAm funcionam(em inglês)](https://www.chop.edu/centers-programs/vaccine-education-center/video/how-do-mrna-vaccines-work).
 
 [Veja mais sobre os tipos de vacina sendo testadas na apresentação do Dr. Offit, diretor do centro de educação em vacinas.](https://globalmeet.webcasts.com/starthere.jsp?ei=1388582&tp_key=1fb508feed)
+
+_Foto_: [Azazello BQ](https://unsplash.com/@azazellobq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/vaccines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
