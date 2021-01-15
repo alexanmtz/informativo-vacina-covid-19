@@ -56,7 +56,7 @@ export default {
     }
   },
   metaInfo() {
-    const imagePath = `${this.$static.metadata.siteUrl}/assets/static/main-image.jpg`
+    const imagePath = `${this.$static.metadata.siteUrl}/main-image.jpg`
     return {
       title: this.description,
       meta: [
