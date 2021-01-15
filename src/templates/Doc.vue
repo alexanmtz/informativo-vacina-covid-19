@@ -12,6 +12,7 @@ query Doc ($path: String!) {
   doc: doc (path: $path) {
     title
     path
+    image,
     date (format: "D. MMMM YYYY")
     timeToRead
     content
@@ -22,10 +23,16 @@ query Doc ($path: String!) {
 <script>
 export default {
   metaInfo() {
+    const imagePath = `${this.$static.metadata.siteUrl}/main-image.jpg`
     return {
       title: this.$page.doc.title,
       meta: [
-        { key: 'description', name: 'description', content: this.$page.doc.description }
+        { key: 'description', name: 'description', content: this.$page.doc.description },
+        {
+          key: 'og:image',
+          property: 'og:image',
+          content: `${imagePath}/${this.$page.doc.image}`
+        }, 
       ]
     }
   }
