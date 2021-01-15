@@ -7,6 +7,8 @@ tags:
 published: true
 
 ---
+![](/should-take-vaccine.jpg)
+
 A maioria das pessoas podem tomar a vacina para o COVID-19, a medida que os grupos prioritários são vacinados. Mas, temos alguns grupos de pessoas que não deveriam tomar a vacina, e outras deveriam consultar o seu médico primeiro ou até tomar a vacina seguindo procedimentos especiais.
 
 Pessoas que NÃO devem tomar a vacina para combater a COVID-19:
@@ -30,3 +32,5 @@ Pessoas que devem seguir procedimentos especiais:
 * Pessoas que tiveram COVID-19 recentemente e que foram tratadas com terapias baseadas em anticorpos, devem esperar 90 dias depois do tratamento para ser vacinado.
 * Pessoas com alguma exposição conhecida ao COVID-19 devem esperar até sua quarentena acabar para ser vacinado (ao menos que ele viva em um grupo, como enfermarias ou abrigos para sem-tetos, que neste caso podem ser vacinados durante o período de quarentena.
 * Pessoas que tiveram outra vacina (não Covid-19) deve esperar ao menos 14 dias antes de tomar uma vacina para COVID-19. Da mesma maneira, quem tomou uma vacina para o COVID-19, deve esperar 14 dias para tomar qualquer outra vacina.
+
+Foto: [Justice Amoh](https://unsplash.com/@juhsteezy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/crowd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
