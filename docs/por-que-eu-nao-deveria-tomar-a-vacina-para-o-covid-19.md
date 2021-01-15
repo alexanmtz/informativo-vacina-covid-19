@@ -5,6 +5,7 @@ slug: por-que-eu-nao-deveria-tomar-vacina-para-o-covid19
 tags:
 - FAQ
 published: true
+image: "/justice-amoh-hyyjkozp2og-unsplash.jpg"
 
 ---
 ![](/should-take-vaccine.jpg)
