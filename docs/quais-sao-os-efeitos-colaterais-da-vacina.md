@@ -5,6 +5,7 @@ slug: quais-sao-os-efeitos-colaterais-da-vacina
 tags:
 - FAQ
 published: true
+image: ''
 
 ---
 ![](/vaccine-collateral.jpg)
