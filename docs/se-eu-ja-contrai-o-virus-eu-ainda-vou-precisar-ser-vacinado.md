@@ -7,6 +7,8 @@ slug: se-contrai-o-virus-vou-precisar-ser-vacinado
 published: false
 
 ---
-People who had COVID-19 are recommended to get the vaccine after they have recovered. The vaccine trials included people who were previously infected with SARS-CoV-2, and the vaccine was found to be safe. Because we do not know how long antibodies last after infection and a small number of people have had more severe second bouts of infection, the vaccine can be beneficial in boosting a person’s existing immunity from infection.
+![](/take-vaccine-after-infected.jpg)
 
-[**Watch this short video in which Dr. Offit discusses what is known about COVID-19 reinfection.**](https://www.chop.edu/centers-programs/vaccine-education-center/video/are-reinfections-covid-19-possible)
+Pessoas que tiveram COVID-19 são recomendados a tomarem a vacina depois de recuperados. As campanhas de vacina incluem pessoas já infectadas com o SARS-CoV-2, e a vacina se demonstrou segura. Não sabemos por quanto tempo os anti-corpos vão durar depois da infeção e um pequeno número de pessoas podem ter um surto de infecção, as vacinas podem ser benéficas em aumentar o sistema imune da pessoa da infecção.
+
+[Assista este vídeo curto em que o Dr. Offit discute o que sabemos sobre a reinfecção do COVID-19](https://www.chop.edu/centers-programs/vaccine-education-center/video/are-reinfections-covid-19-possible "Vídeo sobre a reinfecção do COVID-19").
