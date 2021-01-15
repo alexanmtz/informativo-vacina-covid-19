@@ -4,7 +4,13 @@ tags:
 title: Quais empresas estão trabalhando em uma vacina contra a COVID-19?
 date: 2021-01-06
 slug: quais-empresas-trabalhando-na-vacina-covid
-published: false
+published: true
 
 ---
-More than 150 groups around the world are working on coronavirus vaccines, including in the United States, United Kingdom, Germany, India, China, Russia, and South Korea. [**To find out more about the vaccines being tested, download the file found on this page of the World Health Organization’s (WHO) website.**](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines)
+![](/vaccine-world.jpg)
+
+Mais de 150 grupos no mundo inteiro estão trabalhando no desenvolvimento de vacinas para COVID-19, incluindo os Estados Unidos, Reino Unido, Alemanha, India, China, Russia, e Coréia do 
+
+[Saiba mais sobre as vacinas sendo testadas, e faça download do arquivo nesta página da organização mundial de saúde.](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines "Desenvolvimento das vacinas para COVID-19")
+
+_Foto:_ [Juliana Kozoski](https://unsplash.com/@jkozoski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/world?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
