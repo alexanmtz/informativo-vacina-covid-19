@@ -7,6 +7,8 @@ tags:
 published: true
 
 ---
+![](/vaccine-ingredients.jpg)
+
 A vacina mRNA da Pfizer inclui:
 
 * **mRNA** - Este RNA mensageiro é para o pedaço da proteína do SARS-CoV-2, o vírus que causa a COVID-19
@@ -27,3 +29,5 @@ As vacinas da Pfizer não incluem:
 * [Proteínas do ovo](https://www.chop.edu/centers-programs/vaccine-education-center/vaccine-ingredients/egg-products "Vacinas usam proteína do Ovo como ingrediente?")
 * Produtos vindos de porcos
 * Microchips
+
+_Foto_: [Azazello BQ](https://unsplash.com/@azazellobq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/vaccines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
