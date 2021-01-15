@@ -7,8 +7,14 @@ slug: quanto-tempo-ira-durar-a-imunidade-contra-o-virus-da-covid19
 published: false
 
 ---
-We do not yet know how long immunity lasts after infection or vaccination:
+![](/immune-system-covid.jpg)
 
-Infection - Scientists are working to learn more about immunity following infection. While some people have been re-infected after recovering from COVID-19, the number of people who have experienced this is small compared with the total number of people who have been infected. Likewise, although the virus has been changing since it was first recognized, antibodies from people who were sick early during the pandemic are still effective against the slightly modified version. For these reasons, scientists are hopeful that people will be protected for one or more years.
+Não sabemos ainda quanto tempo a imunidade irá durar após a infecção ou vacinação.
 
-Vaccination - Clinical trial participants will be monitored to understand how long immunity lasts after vaccination.
+**Infecção** - Cientistas estão trabalhando para aprenderem mais sobre a imunidade após uma infecção. Enquanto algumas pessoas foram infectadas novamente após se recuperarem do COVID-19, o número de pessoas ainda é pequeno comparado ao total número de pessoas que foram infectadas.
+
+Embora o vírus já tenha sido modificado desde quando foi descoberto, anti-corpos de pessoas que ficaram doentes durante a pandemia ainda foram efetivos contra a versão modificada. Por estas razões, cientistas estão esperançosos sobre a proteção por um ou mais anos.
+
+**Vacinação** - Participantes de testes com a vacina serão monitorados para entendermos quanto dura o sistema imune após a vacinação.
+
+Foto por [Mladen Borisov](https://unsplash.com/@mborisov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/immune?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
