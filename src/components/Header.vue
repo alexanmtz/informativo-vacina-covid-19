@@ -10,19 +10,19 @@
         <small>Compartilhar</small>
         <div class="items">
           <twitter-button
-            shareUrl="https://vacinacaocovid.com.br"
+            :shareUrl="$page && $page.doc.path ? $static.metadata.siteUrl + '/' + $page.doc.path : $static.metadata.siteUrl"
             shareDescription="Um guia informativo sobre a vacina para COVID-19"
             class="share-button--outline"
             
           />
           <facebook-button
-            url="https://vacinacaocovid.com.br"
+            :url="$page && $page.doc.path ? $static.metadata.siteUrl + '/' + $page.doc.path : $static.metadata.siteUrl"
             description="Um guia informativo sobre a vacina para COVID-19"
             class="share-button--outline"
             
           />
           <whats-app-button
-            url="https://vacinacaocovid.com.br"
+            :url="$page && $page.doc.path ? $static.metadata.siteUrl + '/' + $page.doc.path : $static.metadata.siteUrl"
             class="share-button--outline"
             
           />
@@ -31,6 +31,28 @@
     </ClientOnly>
   </header>
 </template>
+
+<static-query>
+query {
+  metadata {
+    siteName,
+    siteUrl
+  }
+}
+</static-query>
+
+<page-query>
+query Doc ($path: String!) {
+  doc: doc (path: $path) {
+    title
+    path
+    image,
+    date (format: "D  MMMM YYYY", locale: "pt-BR")
+    timeToRead
+    content
+  }
+}
+</page-query>
 
 <script>
 import ThemeSwitch from '~/components/ThemeSwitch.vue'
