@@ -18,6 +18,6 @@ Os efeitos colaterais mais comuns da vacina de RNA mensageiro são:
 * Dor de cabeça
 * Dor muscular
 
-Os efeitos colaterais ocorrem durante a primeira semana após a vacinação, mas geralmente acontece de um a dois dias após receber a vacine. Os efeitos colaterais continuam na segunda dose e é mais comum em pessoas mais jovens ao invés das mais velhas. Mas vale ressaltar que a maioria das pessoas não terão efeitos colaterais significantes, assim algumas pessoas manifestam desejo de agendar suas vacinações, e assim elas não precisam avisar no trabalho de última hora se não se sentirem bem.
+Os efeitos colaterais ocorrem durante a primeira semana após a vacinação, mas geralmente acontece de um a dois dias após receber a vacina. Os efeitos colaterais continuam na segunda dose e é mais comum em pessoas mais jovens. Mas vale ressaltar que a maioria das pessoas não terão efeitos colaterais significantes. Algumas pessoas manifestam desejo de agendar suas vacinações, e assim elas não precisam avisar no trabalho de última hora se não se sentirem bem.
 
 _Foto:_ [Francisco Gonzalez](https://unsplash.com/@franciscoegonzalez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/disease?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
