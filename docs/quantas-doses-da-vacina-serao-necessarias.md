@@ -10,7 +10,7 @@ image: "/bermix-studio-yhtda4fiv3o-unsplash.jpg"
 ---
 ![](/vaccine-look.jpg)
 
-A vacina de RNAm requer duas doses. Para a vacina da Pfizer, as doses deverão ter um intervalo de 21 dias. As vacinas da Morena, as doses terão um intervalo de 28 dias. As vacinas de RNAm não são complementares. As pessoas que tomam a primeira dose devem estar cientes sobre o retorno para a segunda dose, pois as vacinas requerem duas doses para ter a melhor proteção.
+A vacina de RNAm requer duas doses. Para a vacina da Pfizer, as doses deverão ter um intervalo de 21 dias. As vacinas da Moderna, as doses terão um intervalo de 28 dias. As vacinas de RNAm não são complementares. As pessoas que tomam a primeira dose devem estar cientes sobre o retorno para a segunda dose, pois as vacinas requerem duas doses para ter a melhor proteção.
 
 Algumas vacinas para COVID-19 sendo pesquisadas requerem uma única dose, mas os testes dirão melhor quantas doses serão necessárias.
 
