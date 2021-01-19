@@ -149,14 +149,15 @@ export default {
   }
   position: absolute;
   right: 20px;
-  top: 300px;
+  bottom: -300px;
   text-align: center;
   .items {
     text-align: center;
     width: 160px;
   }
   @include respond-below(sm) {
-    top: 600px;
+    position: fixed;
+    bottom: 0;
     right: 0;
     width: 100%;
     padding: 10px;
