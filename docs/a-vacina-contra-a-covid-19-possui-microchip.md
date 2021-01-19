@@ -7,4 +7,6 @@ published: false
 image: ''
 
 ---
-As vacinas do COVID-19 não contém microchip. Esta ideia é baseada em uma falsa narrativa e uma campanha de desinformação disseminada na internet. Saiba mais sobre de onde veio esta falsa narrativa em [**snopes.com**](https://www.snopes.com/fact-check/bill-gates-id2020/ "Snopes.com").
+As vacinas do COVID-19 não contém microchips. Esta ideia é baseada em uma falsa narrativa e uma campanha de desinformação disseminada na internet. 
+
+Saiba mais sobre de onde veio esta falsa narrativa em [**snopes.com**](https://www.snopes.com/fact-check/bill-gates-id2020/ "Snopes.com").
