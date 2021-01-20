@@ -3,10 +3,12 @@ tags: []
 title: As mutações do Coronavirus afetarão a capacidade da vacina de prevenir a doença?
 date: 
 slug: mutacao-corona-afeta-vacina
-published: false
-image: ''
+published: true
+image: "/adrien-converse-xzh7k6nvvgi-unsplash.jpg"
 
 ---
+![](/mutation-covid.jpg)
+
 As mutações do vírus podem tornar as vacinas menos eficazes, como pudemos ver com o vírus da gripe, portanto faz sentido se perguntar se tais mutações com o SARS-CoV-2 afetarão as vacinas do COVID-19.
 
 Embora o SARS-CoV-2 esteja em constante mutação, a questão crítica é se isto torna o vírus mais ou menos virulento, ou ainda, se mais ou menos contagioso. Até agora, o vírus que causa o COVID-19 parece não ter suas funções mais importantes alteradas.
