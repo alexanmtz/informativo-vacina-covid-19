@@ -18,3 +18,5 @@ Porém, mutações acontecem e pode ser que em algum ponto a mudança afete a ef
 Desta forma, anticorpos das pessoas que tiveram uma versão anterior do vírus ainda conseguem se proteger da versão mais nova.
 
 Em outras palavras, até o momento, o vírus não sofreu uma alteração tão radical que invalide a forma utilizada para desenvolver a vacina do COVID-19.
+
+_Foto_: [Adrien Converse](https://unsplash.com/@adrienconverse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/biology-cell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
