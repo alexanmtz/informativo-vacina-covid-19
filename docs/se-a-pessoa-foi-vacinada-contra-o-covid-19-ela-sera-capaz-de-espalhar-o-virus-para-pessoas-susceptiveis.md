@@ -4,7 +4,7 @@ title: Se a pessoa foi vacinada contra o COVID-19, ela será capaz de espalhar o
   para pessoas susceptíveis?
 date: 
 slug: pessoa-vacinada-e-capaz-de-espalhar-o-virus
-published: false
+published: true
 image: "/sam-moqadam-2rrsfmn4hn8-unsplash.jpg"
 
 ---
