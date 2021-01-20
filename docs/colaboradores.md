@@ -13,4 +13,4 @@ Alexandre Magno é desenvolvedor web há quase 20 anos e membro ativo da comunid
 
 ![https://vyk1.github.io/images/vbm.jpg](https://vyk1.github.io/images/vbm.jpg)
 
-[Victoria](vyk1.github.io/ "Portifolio") é formada em Sistemas para Internet e mestranda em Ciência da Computação. Desenvolve sistemas para diversas finalidades, como o [ConTech](contech-cbs.web.app "ConTech"), [Jardim Interativo](jardim-interativo.web.app/ "Jardim Interativo") e [PocketLib](https://pocketlib.netlify.app/ "PocketLib").
+[Victoria](https://vyk1.github.io/ "Portifolio") é formada em Sistemas para Internet e mestranda em Ciência da Computação. Desenvolve sistemas para diversas finalidades, como o [ConTech](https://contech-cbs.web.app "ConTech"), [Jardim Interativo](https://jardim-interativo.web.app/ "Jardim Interativo") e [PocketLib](https://pocketlib.netlify.app/ "PocketLib").
