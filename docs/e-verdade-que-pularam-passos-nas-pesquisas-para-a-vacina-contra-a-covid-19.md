@@ -2,7 +2,7 @@
 tags:
 - FAQ
 title: É verdade que pularam passos nas pesquisas para a vacina contra a COVID-19?
-date: 
+date: 2021-01-20
 slug: pularam-passos-para-vacina-covid19
 published: true
 image: "/louis-reed-pwckf7l4-no-unsplash.jpg"
