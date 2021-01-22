@@ -1,22 +1,25 @@
+const c1 = () => import(/* webpackChunkName: "page--src-pages-404-vue" */ "C:\\Users\\Teferi\\Documents\\informativo-vacina-covid-19\\src\\pages\\404.vue")
+const c2 = () => import(/* webpackChunkName: "page--src-templates-doc-vue" */ "C:\\Users\\Teferi\\Documents\\informativo-vacina-covid-19\\src\\templates\\Doc.vue")
+const c3 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\Teferi\\Documents\\informativo-vacina-covid-19\\src\\pages\\Index.vue")
+
 export default [
   {
     name: "404",
     path: "/404/",
-    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/alexandremagno/projects/informativo-vacina-covid-19/node_modules/gridsome/app/pages/404.vue")
+    component: c1
   },
   {
     path: "/:slug/",
-    component: () => import(/* webpackChunkName: "page--src--templates--doc-vue" */ "/Users/alexandremagno/projects/informativo-vacina-covid-19/src/templates/Doc.vue")
+    component: c2
   },
   {
     name: "home",
     path: "/",
-    component: () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/alexandremagno/projects/informativo-vacina-covid-19/src/pages/Index.vue")
+    component: c3
   },
   {
     name: "*",
     path: "*",
-    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/alexandremagno/projects/informativo-vacina-covid-19/node_modules/gridsome/app/pages/404.vue")
+    component: c1
   }
 ]
-
