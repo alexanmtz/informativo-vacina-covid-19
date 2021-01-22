@@ -29,6 +29,10 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
+          "title": "É verdade que pularam passos nas pesquisas para a vacina contra a COVID-19?",
+          "slug": "pularam-passos-para-vacina-covid19"
+        },
+        {
           "title": "O corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
           "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
         },
@@ -69,6 +73,14 @@
           "slug": "por-que-eu-nao-deveria-tomar-vacina-para-o-covid19"
         },
         {
+          "title": "A vacina de RNAm para COVID-19 causa infertilidade?",
+          "slug": "vacina-rnam-covid-causa-infertilidade"
+        },
+        {
+          "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",
+          "slug": "uma-vez-tomada-a-vacina-estou-livre-do-lockdown"
+        },
+        {
           "title": "Quais são os efeitos colaterais da vacina?",
           "slug": "quais-sao-os-efeitos-colaterais-da-vacina"
         },
@@ -79,10 +91,6 @@
         {
           "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
           "slug": "como-as-vacinas-rnam-funcionam"
-        },
-        {
-          "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",
-          "slug": "uma-vez-tomada-a-vacina-estou-livre-do-lockdown"
         },
         {
           "title": "Quais tipos de vacina para COVID-19 estão sendo testadas?",

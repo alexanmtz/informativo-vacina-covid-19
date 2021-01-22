@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- FAQ
 title: A vacina poderá ser aplicada em quem está com COVID-19?
 date: 2021-01-06
 slug: a-vacina-podera-ser-aplicada-quem-esta-com-covid19

@@ -5,7 +5,7 @@
       <h1>{{ $static.metadata.siteName }}</h1>
       <small style="text-align: center; margin-top: -40px; padding-bottom: 20px;"> {{ this.description }} </small>
       <small style="color: gray; text-align: center;">* Este site não representa nenhum órgão oficial do governo e é feito como iniciativa open-source por uma pessoa física</small>
-      <small style="color: gray; text-align: center; margin-bottom: 20px;">* O conetúddo não é de nossa responsabilidade e foi feito de forma colaborativa pela comunidade</small>
+      <small style="color: gray; text-align: center; margin-bottom: 20px;">* O conteúdo não é de nossa responsabilidade e foi feito de forma colaborativa pela comunidade</small>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut 
@@ -27,7 +27,7 @@ query {
     siteName,
     siteUrl
   },
-  docs: allDoc(filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
+  docs: allDoc(order:ASC, filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
     edges {
       node {
         title,

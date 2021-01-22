@@ -1,9 +1,22 @@
 ---
 tags: []
 title: As mutações do Coronavirus afetarão a capacidade da vacina de prevenir a doença?
-date: 
+date: 2021-01-18
 slug: mutacao-corona-afeta-vacina
-published: false
+published: true
+image: "/adrien-converse-xzh7k6nvvgi-unsplash.jpg"
 
 ---
-Viral mutations can cause vaccines to be less effective, such as we see with the influenza virus, so it is reasonable to wonder whether changes to SARS-CoV-2 will affect COVID-19 vaccines. Although SARS-CoV-2 is constantly mutating, the critical question is does the virus’s mutation change function, making the virus more or less virulent or more or less contagious. So far, the virus that causes COVID-19 does not appear to have functionally changed in an important way. But, it does happen and at some point a change could affect how well a vaccine works. Right now, that does not appear to be happening. For example, recent changes enabled the virus to spread more easily, but those changes do not appear to make people sicker and the vaccine appears to protect against the newer version. Likewise, antibodies from people who had an earlier version of the virus are still able to protect against the newer version. In other words, at least to date, the virus hasn’t mutated away from the approach taken to combat COVID-19 with vaccines.
+![](/mutation-covid.jpg)
+
+As mutações do vírus podem tornar as vacinas menos eficazes, como pudemos ver com o vírus da gripe, portanto faz sentido se perguntar se tais mutações com o SARS-CoV-2 afetarão as vacinas do COVID-19.
+
+Embora o SARS-CoV-2 esteja em constante mutação, a questão crítica é se isto torna o vírus mais ou menos virulento, ou ainda, se mais ou menos contagioso. Até agora, o vírus que causa o COVID-19 parece não ter suas funções mais importantes alteradas.
+
+Porém, mutações acontecem e pode ser que em algum ponto a mudança afete a eficácia da vacina, mas saiba que até agora, isso não parece acontecer. Por exemplo, mudanças recentes permitem que o vírus se propague mais facilmente. No entanto, tais alterações aparentemente não tem tornado as pessoas mais doentes e a vacina continua a protegê-las da nova versão.
+
+Desta forma, anticorpos das pessoas que tiveram uma versão anterior do vírus ainda conseguem se proteger da versão mais nova.
+
+Em outras palavras, até o momento, o vírus não sofreu uma alteração tão radical que invalide a forma utilizada para desenvolver a vacina do COVID-19.
+
+_Foto_: [Adrien Converse](https://unsplash.com/@adrienconverse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/biology-cell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
