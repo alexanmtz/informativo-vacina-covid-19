@@ -29,6 +29,10 @@
       "section": "Perguntas e respostas sobre a vacina para combater o vírus da COVID-19",
       "topics": [
         {
+          "title": "É verdade que pularam passos nas pesquisas para a vacina contra a COVID-19?",
+          "slug": "pularam-passos-para-vacina-covid19"
+        },
+        {
           "title": "O corpo pararia de produzir a proteína imunizante para o COVID-19 depois de se aplicar a vacina de RNA mensageiro?",
           "slug": "por-que-o-corpo-pararia-de-produzir-proteina-imunizante-covid19"
         },
