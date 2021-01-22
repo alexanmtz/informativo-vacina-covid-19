@@ -73,6 +73,10 @@
           "slug": "vacina-rnam-covid-causa-infertilidade"
         },
         {
+          "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",
+          "slug": "uma-vez-tomada-a-vacina-estou-livre-do-lockdown"
+        },
+        {
           "title": "Quais são os efeitos colaterais da vacina?",
           "slug": "quais-sao-os-efeitos-colaterais-da-vacina"
         },
@@ -83,10 +87,6 @@
         {
           "title": "Como vacinas que usam RNA mensageiro (mRNA) funcionam?",
           "slug": "como-as-vacinas-rnam-funcionam"
-        },
-        {
-          "title": "Uma vez tomada a vacina, estou livre das restrições impostas no lockdown?",
-          "slug": "uma-vez-tomada-a-vacina-estou-livre-do-lockdown"
         },
         {
           "title": "Quais tipos de vacina para COVID-19 estão sendo testadas?",
