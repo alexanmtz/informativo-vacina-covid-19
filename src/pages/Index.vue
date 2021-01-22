@@ -27,7 +27,7 @@ query {
     siteName,
     siteUrl
   },
-  docs: allDoc(filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
+  docs: allDoc(order:ASC, filter: { tags: {contains: "FAQ" }, published: { eq: true } }) {
     edges {
       node {
         title,
