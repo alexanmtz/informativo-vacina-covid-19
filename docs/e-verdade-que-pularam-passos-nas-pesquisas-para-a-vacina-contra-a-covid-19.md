@@ -4,16 +4,21 @@ tags:
 title: É verdade que pularam passos nas pesquisas para a vacina contra a COVID-19?
 date: 
 slug: pularam-passos-para-vacina-covid19
-published: false
+published: true
+image: "/louis-reed-pwckf7l4-no-unsplash.jpg"
 
 ---
-While COVID-19 vaccines have been developed more quickly than has ever been done in the past, it was imperative that speed did not decrease safety.
+![](/vaccine-lab.jpg)
 
-In this case, the timeline was shortened without sacrificing quality by:
+Mesmo com a vacina para a COVID-19 sendo desenvolvida mais rapidamente como nunca feito antes, isto não quer dizer que ela é menos segura.
 
-* Skipping phase I or combining phase I with phase II trials — Since phase I studies include a small number of people and evaluate whether the candidate vaccine causes an immune response and is safe, scientists could look at data from a group of people as phase II was progressing to make these evaluations.
-* Manufacturing “at risk” — While completing the large phase III clinical trials, manufacturers began producing the vaccine, so that if it was shown to be safe and effective, they would have large numbers of doses ready. The reason this is not typically the approach is because if the vaccine does not work, the manufacturer will have spent a significant amount of money to produce something that needs to be thrown away.
-* Support efforts — While waiting for a vaccine to be ready, many other aspects of vaccine delivery were prepared, including:
-  * Developing plans for how to distribute the first, limited quantities available
-  * Ensuring adequate supplies for distributing and administering vaccine, like vaccine vials, syringes and other equipment needed to vaccinate
-  * Establishing mechanisms for distribution to large subsets of the population, especially in countries in which mechanisms may not currently be in place. For example, many countries do not have standard programs for vaccinating older adults. So, planning how to reach those people, without unintentionally exposing them to a crowd in which the virus may be spread, was something that could be planned during vaccine development.
+Neste caso, o tempo foi reduzido sem sacrificar a qualidade pelos seguintes motivos:
+
+* Pular a fase  de testes 1 ou combinar a fase 1 com a  fase 2 - Como a fase 1 inclui um pequeno número de pessoas e avalia se a vacina candidata causa uma resposta imune e é segura, cientistas poderiam olhar nos dados do grupo de pessoas da fase 2 enquanto proguide nas avaliações.
+* Fabricação "com risco" - enquanto completam a fase 3 em larga escala para tests clínicos, fabricantes começam a produzir a vacina, que se mostra segura e efetiva, e assim ter um número grande de doses prontas caso seja aprovada. A razão disto não ser normalmente feito é pelo fato de caso a vacina não funcione, o fabricante desperdiçou uma grande quantia de dinheiro para produzir algo que seria jogado fora.
+* Esforços em conjunto - Enquanto o fabricante aguarda a vacina ficar pronta, vários outros aspectos podem ser preparados, isto inclui:
+  * Desenvolver planos de distribuição primeiro, com quantidades limitadas
+  * Garantindo que os suprimentos para distribuir e administrar as vacinas, como seringas, e outros equipamentos necessários para vacinação.
+  * Encontrar mecanismos para distribuição em larga escala e em grande parte da população, especialmente em países que não esteja com tudo preparado. Por exemplo, muitos países não possuem programas de vacinação em adultos mais velhos. Então, planejar em como alcançar estas pessoas, sem intencionalmente expor a população ao risco do vírus se espalhar, é algo que pode ser planejado durante o desenvolvimento da vacina.
+
+_Foto:_ [Louis Reed](https://unsplash.com/@_louisreed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) no [Unsplash](https://unsplash.com/s/photos/laboratory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
