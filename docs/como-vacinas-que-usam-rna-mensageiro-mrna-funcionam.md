@@ -4,6 +4,8 @@ date: 2021-01-02
 slug: como-as-vacinas-rnam-funcionam
 tags:
 - FAQ
+- RNAm
+- DNA
 published: true
 
 ---

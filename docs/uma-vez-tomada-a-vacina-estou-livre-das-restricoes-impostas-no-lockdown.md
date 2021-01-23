@@ -4,6 +4,9 @@ date: 2021-01-02
 slug: uma-vez-tomada-a-vacina-estou-livre-do-lockdown
 tags:
 - FAQ
+- Contágio
+- Duração
+- Imunidade
 published: true
 image: "/mauro-mora-31-poduwzge-unsplash.jpg"
 

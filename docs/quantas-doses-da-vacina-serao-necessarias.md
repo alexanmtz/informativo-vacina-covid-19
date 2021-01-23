@@ -1,6 +1,8 @@
 ---
 tags:
 - FAQ
+- Doses
+- RNAm
 title: Quantas doses da vacina serão necessárias?
 date: 2021-01-06
 slug: quantas-doses-da-vacina-serao-necessarias

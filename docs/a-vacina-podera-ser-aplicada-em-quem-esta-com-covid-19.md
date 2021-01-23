@@ -8,6 +8,6 @@ published: true
 image: ''
 
 ---
-Pessoas que tiveram COVID-19 deveria esperar até serem recuperadas e seguir os critérios de isolamento.
+Pessoas que tiveram COVID-19 devem esperar até serem recuperadas e seguir os critérios de isolamento.
 
 Se uma pessoa tem anticorpos como parte do tratamento, deve esperar 3 meses antes de ser vacinado.

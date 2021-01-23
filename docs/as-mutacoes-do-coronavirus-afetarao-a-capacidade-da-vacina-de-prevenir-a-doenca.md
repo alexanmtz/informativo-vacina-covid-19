@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+- Doses
+- Mutação
 title: As mutações do Coronavirus afetarão a capacidade da vacina de prevenir a doença?
 date: 2021-01-18
 slug: mutacao-corona-afeta-vacina

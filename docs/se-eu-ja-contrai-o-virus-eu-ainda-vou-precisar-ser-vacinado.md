@@ -1,6 +1,7 @@
 ---
 tags:
 - FAQ
+- Duração
 title: Se eu já contraí o vírus, eu ainda vou precisar ser vacinado?
 date: 2021-01-06
 slug: se-contrai-o-virus-vou-precisar-ser-vacinado

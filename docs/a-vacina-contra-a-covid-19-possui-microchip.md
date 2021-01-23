@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- Ingredientes
 title: A vacina contra a COVID-19 possui microchip?
 date: 2021-01-06
 slug: vacina-covid-possui-microchip

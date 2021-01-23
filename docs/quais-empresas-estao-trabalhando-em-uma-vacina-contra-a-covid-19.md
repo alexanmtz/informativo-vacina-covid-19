@@ -1,6 +1,8 @@
 ---
 tags:
 - FAQ
+- Fabricantes
+- Tipos de Vacina
 title: Quais empresas estão trabalhando em uma vacina contra a COVID-19?
 date: 2021-01-06
 slug: quais-empresas-trabalhando-na-vacina-covid
