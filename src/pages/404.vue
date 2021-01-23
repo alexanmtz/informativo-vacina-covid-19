@@ -20,24 +20,24 @@
     max-width: 100%;
     height: auto;
   }
-}
-.main {
-  color: #888;
-  margin: 0;
-  display: table;
-  width: 100%;
-  height: 100vh;
-  text-align: center;
-}
+  .main {
+    color: #888;
+    margin: 0;
+    display: table;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+  }
 
-.fof {
-  display: table-cell;
-  vertical-align: middle;
-}
+  .fof {
+    display: table-cell;
+    vertical-align: middle;
+  }
 
-.fof h1 {
-  font-size: 2.6em;
-  display: grid;
+  .fof h1 {
+    font-size: 2.6em;
+    display: grid;
+  }
 }
 </style>
 
