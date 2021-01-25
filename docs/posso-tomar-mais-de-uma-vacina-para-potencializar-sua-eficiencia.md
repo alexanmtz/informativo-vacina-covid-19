@@ -1,6 +1,11 @@
 ---
 tags:
 - FAQ
+- Fabricantes
+- Tipos de Vacina
+- Doses
+- Imunidade
+- Efeitos Colaterais
 title: Posso tomar mais de uma vacina para potencializar sua eficiência?
 date: 2021-01-06
 slug: posso-tomar-mais-de-uma-vacina

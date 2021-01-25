@@ -1,6 +1,7 @@
 ---
 tags:
 - FAQ
+- Efeitos Colaterais
 title: A vacina de RNAm para COVID-19 causa infertilidade?
 date: 2021-01-06
 slug: vacina-rnam-covid-causa-infertilidade

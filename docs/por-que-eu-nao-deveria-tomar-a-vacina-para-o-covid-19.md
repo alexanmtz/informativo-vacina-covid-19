@@ -4,6 +4,10 @@ date: 2021-01-06
 slug: por-que-eu-nao-deveria-tomar-vacina-para-o-covid19
 tags:
 - FAQ
+- Doses
+- Contágio
+- Imunidade
+- Efeitos Colaterais
 published: true
 image: "/justice-amoh-hyyjkozp2og-unsplash.jpg"
 

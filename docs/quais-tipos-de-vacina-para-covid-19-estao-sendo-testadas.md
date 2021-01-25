@@ -4,6 +4,10 @@ date:
 slug: quais-tipos-de-vacina-estao-sendo-testadas
 tags:
 - FAQ
+- Tipos de Vacina
+- Fabricantes
+- DNA
+- RNAm
 published: true
 image: "/azazello-bq-exfab_kidwc-unsplash.jpg"
 
