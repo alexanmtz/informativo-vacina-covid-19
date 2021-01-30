@@ -119,6 +119,12 @@ export default {
 
   @include respond-above(sm) {
     transform: translateX(0);
+    
+  }
+
+   @include respond-above(md) {
+    width: 20vw;
+    
   }
 
   &--open {
@@ -166,7 +172,7 @@ ul {
 
 .section-title {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 1rem;
   margin-bottom: 20px;
   opacity: .3;
   letter-spacing: .15em;
@@ -204,12 +210,8 @@ ul {
 }
 
 .git {
-  display: flex;
-  flex-direction: columns;
-  align-content: space-around;
+  
   text-align: center;
-  display: block;
-  width: 100%;
 }
 </style>
 

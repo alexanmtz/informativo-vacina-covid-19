@@ -108,15 +108,14 @@ export default {
 
 <style lang="scss" scoped>
 .header {
+  padding: 10px 25px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   position: fixed;
   top: 0;
-  right: -12px;
-  left: 0;
+  width: 100vw;
+  left: 0px;
   z-index: 10;
-  padding: 15px 30px;
   transition: padding .15s linear, background .15s linear, border-color .15s linear;
   will-change: padding, background;
   border-bottom: 1px solid transparent;
@@ -147,13 +146,14 @@ export default {
     display: block;
     text-align: center;
   }
+  
   position: absolute;
-  right: 20px;
-  bottom: -300px;
-  text-align: center;
+  right: 50px;
+  bottom: -450px;
+  
   .items {
     text-align: center;
-    width: 160px;
+    width: 100px;
   }
   @include respond-below(sm) {
     position: fixed;

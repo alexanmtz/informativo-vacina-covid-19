@@ -43,10 +43,10 @@ article {
     margin: 0 0 1em;
     background: $sidebarBright;
     padding: 2rem;
-    border-radius: 3px;
+    border-radius: 5px;
     text-align: center;
     transition: background .15s ease-in-out, border-color .15s ease-in-out;
-    min-width: 30%;
+    min-width: 45%;
 
     @include respond-above(sm) {
       margin: 0 1em 2em;
