@@ -104,6 +104,7 @@ export default {
 
 <style lang="scss" scoped>
 .sidebar {
+  
   transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
   padding: 100px 30px 30px;
   width: 300px;
@@ -200,6 +201,7 @@ ul {
     position: absolute;
     top: 13px;
     left: -15px;
+    
   }
 
   &.current {
@@ -210,8 +212,15 @@ ul {
 }
 
 .git {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding-bottom: 15vh;
+
   
-  text-align: center;
+   @include respond-above(sm) {
+  padding-bottom: 5vh;
+   }
 }
 </style>
 

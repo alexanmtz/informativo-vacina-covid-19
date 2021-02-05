@@ -149,22 +149,28 @@ export default {
   
   position: absolute;
   right: 50px;
-  bottom: -450px;
+  bottom: -50vh;
+  width: 64px;
   
   .items {
-    text-align: center;
-    width: 100px;
+      display: inline-block;
+      height: 64px;
+    
   }
   @include respond-below(sm) {
     position: fixed;
     bottom: 0;
     right: 0;
     width: 100%;
-    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     
     background: rgba(216, 234, 245, 0.95);
     .items {
-      display: inline;
+      display: inline-flex;
+      justify-content: space-evenly;
+      width: 100vw;
+      
     }
   }
 }

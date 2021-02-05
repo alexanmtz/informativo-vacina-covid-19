@@ -30,6 +30,7 @@ export default {
 
 <style lang="scss" scoped>
 .git {
+  
   text-align: center;
 }
 small {
@@ -70,6 +71,7 @@ a {
 
   &.large {
     @include respond-above(sm) {
+      
       font-size: 18px;
       padding: 12px 20px;
       line-height: 24px;

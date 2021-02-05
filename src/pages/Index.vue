@@ -113,8 +113,12 @@ nav {
   display: flex;
   flex-direction: column;
   align-self: center;
-  @include respond-above(md) {
-    margin: 5em 0 0;
+  padding-top: 32px;
+  padding-bottom: 20vh;
+
+   @include respond-above(sm) {
+  padding-bottom: 10vh;
   }
+ 
 }
 </style>
