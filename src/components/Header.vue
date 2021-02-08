@@ -108,15 +108,14 @@ export default {
 
 <style lang="scss" scoped>
 .header {
+  padding: 10px 25px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   position: fixed;
   top: 0;
-  right: -12px;
-  left: 0;
+  width: 100vw;
+  left: 0px;
   z-index: 10;
-  padding: 15px 30px;
   transition: padding .15s linear, background .15s linear, border-color .15s linear;
   will-change: padding, background;
   border-bottom: 1px solid transparent;
@@ -147,24 +146,31 @@ export default {
     display: block;
     text-align: center;
   }
+  
   position: absolute;
-  right: 20px;
-  bottom: -300px;
-  text-align: center;
+  right: 50px;
+  bottom: -50vh;
+  width: 64px;
+  
   .items {
-    text-align: center;
-    width: 160px;
+      display: inline-block;
+      height: 64px;
+    
   }
   @include respond-below(sm) {
     position: fixed;
     bottom: 0;
     right: 0;
     width: 100%;
-    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     
     background: rgba(216, 234, 245, 0.95);
     .items {
-      display: inline;
+      display: inline-flex;
+      justify-content: space-evenly;
+      width: 100vw;
+      
     }
   }
 }

@@ -1,10 +1,10 @@
 <template>
   <div>
+    <small style="display:inline-block;">Foto da capa por<br /><a class="photo-contrib1" href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> no <a class="photo-contrib2" href="https://unsplash.com/s/photos/vaccine-corona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
     <a href="https://github.com/alexanmtz/informativo-vacina-covid-19" :class="size" title="Git-repository" aria-label="Projeto de vacinação para Covid no Github">
       <github-icon class="icon" />
       {{text}}
     </a>
-    <small style="display:inline-block; margin-left: 10px;">Foto da capa por <a class="photo-contrib1" href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> no <a class="photo-contrib2" href="https://unsplash.com/s/photos/vaccine-corona?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
   </div>
 </template>
 
@@ -30,23 +30,23 @@ export default {
 
 <style lang="scss" scoped>
 .git {
+  
   text-align: center;
 }
 small {
-  display: block;
   width: 100%;
-  text-align: center;
+  
 }
 a {
-  display: inline-block;
-  padding: 6px 10px;
-  margin: 4px 0;
+  
+  padding: 5px 10px;
   text-decoration: none;
-  border-radius: 3px;
+  border-radius: 5px;
   font-size: 12px;
-  line-height: 18px;
+  line-height: 32px;
   font-weight: 700;
   transition: color .15s ease-in-out, background .15s ease-in-out;
+  
 
   &:focus {
     outline: none;
@@ -71,6 +71,7 @@ a {
 
   &.large {
     @include respond-above(sm) {
+      
       font-size: 18px;
       padding: 12px 20px;
       line-height: 24px;

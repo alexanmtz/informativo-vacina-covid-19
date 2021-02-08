@@ -38,10 +38,10 @@ button {
   height: 48px;
   position: relative;
 
+
   @include respond-above(sm) {
     display: none;
   }
-
   &:focus {
     outline: none;
   }
@@ -54,6 +54,7 @@ button {
     color: $textDark;
   }
 }
+  
 
 svg {
   position: absolute;

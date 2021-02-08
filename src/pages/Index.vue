@@ -77,7 +77,8 @@ export default {
   display: flex;
   flex-direction: column;
   img {
-    max-width: 100%;
+    align-self: center;
+    max-width: 100vw;
     height: auto;
   }
 }
@@ -109,11 +110,15 @@ nav {
 }
 
 .git {
-  margin: 3em 0 0;
+  display: flex;
+  flex-direction: column;
   align-self: center;
+  padding-top: 32px;
+  padding-bottom: 20vh;
 
-  @include respond-above(md) {
-    margin: 5em 0 0;
+   @include respond-above(sm) {
+  padding-bottom: 10vh;
   }
+ 
 }
 </style>

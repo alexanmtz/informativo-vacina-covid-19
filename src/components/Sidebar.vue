@@ -104,6 +104,7 @@ export default {
 
 <style lang="scss" scoped>
 .sidebar {
+  
   transition: background .15s ease-in-out, transform .15s ease-in-out, border-color .15s linear;
   padding: 100px 30px 30px;
   width: 300px;
@@ -119,6 +120,12 @@ export default {
 
   @include respond-above(sm) {
     transform: translateX(0);
+    
+  }
+
+   @include respond-above(md) {
+    width: 20vw;
+    
   }
 
   &--open {
@@ -166,7 +173,7 @@ ul {
 
 .section-title {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 1rem;
   margin-bottom: 20px;
   opacity: .3;
   letter-spacing: .15em;
@@ -194,6 +201,7 @@ ul {
     position: absolute;
     top: 13px;
     left: -15px;
+    
   }
 
   &.current {
@@ -205,11 +213,14 @@ ul {
 
 .git {
   display: flex;
-  flex-direction: columns;
-  align-content: space-around;
-  text-align: center;
-  display: block;
-  width: 100%;
+  flex-direction: column;
+  align-self: center;
+  padding-bottom: 15vh;
+
+  
+   @include respond-above(sm) {
+  padding-bottom: 5vh;
+   }
 }
 </style>
 
