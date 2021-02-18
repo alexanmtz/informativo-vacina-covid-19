@@ -13,7 +13,7 @@
           :key="doc.node.title"
           :link="doc.node.path"
           :text="doc.node.title"
-          icon="help-circle-icon" />
+          :img="doc.node.image"/>
       </nav>
       <GitLink class="git" size="small" />
     </div>
@@ -34,6 +34,7 @@ query {
         slug,
         path,
         tags,
+        image,
         published
       }
     }
@@ -85,12 +86,9 @@ export default {
 
 h1 {
   text-align: center;
-  max-width: 600px;
+  max-width: 100vw;
   margin: .5em auto 1.5em;
 
-  @include respond-above(md) {
-    max-width: 1000px;
-  }
 }
 
 h2 {

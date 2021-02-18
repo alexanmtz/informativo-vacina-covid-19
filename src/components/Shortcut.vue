@@ -2,7 +2,7 @@
   <article>
     <h2>
       <g-link :to="link">
-        <component :is="icon"></component>
+        <img :src="img" />
         {{ text }}
       </g-link>
     </h2>
@@ -28,7 +28,7 @@ export default {
       type: String,
       required: true
     },
-    icon: {
+    img: {
       type: String,
       required: true
     }
@@ -42,7 +42,7 @@ article {
     border: 1px solid shade($sidebarBright, 10%);
     margin: 0 0 1em;
     background: $sidebarBright;
-    padding: 2rem;
+    padding: 0rem 1rem 1rem 1rem;
     border-radius: 5px;
     text-align: center;
     transition: background .15s ease-in-out, border-color .15s ease-in-out;
@@ -67,14 +67,13 @@ a {
   flex-direction: column;
 }
 
-svg {
+img {
+  opacity: .8;
   width: 100%;
-  height: 2em;
-  margin-bottom: 1em;
+  border-radius: 5px;
+  
 
   @include respond-above(md) {
-    width: 3em;
-    height: 3em;
     width: 100%;
   }
 }
