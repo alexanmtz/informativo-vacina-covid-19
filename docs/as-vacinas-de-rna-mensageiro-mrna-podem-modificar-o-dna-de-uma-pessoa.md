@@ -7,8 +7,11 @@ tags:
 - DNA
 - RNAm
 published: true
+image: "/markus-winkler-mydd4ym1eec-unsplash.jpg"
 
 ---
+![](/markus-winkler-mydd4ym1eec-unsplash-rect.jpg)
+
 Como o _mRNA_ é ativo somente no citoplasma da célula e o DNA é localizado no núcleo, as vacinas produzidas com o _mRNA_ não operam no mesmo compartimento celular onde o DNA está localizado.
 
 Além disso, o _mRNA_ é instável e permanece no citoplasma da célula somente em um período limitado de tempo (veja também em "Em que momento o corpo para de produzir a proteína de imunização para a COVID-19 depois de ter se vacinado?").
