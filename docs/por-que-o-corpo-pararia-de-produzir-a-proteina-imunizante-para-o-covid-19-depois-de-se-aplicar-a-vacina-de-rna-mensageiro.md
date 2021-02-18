@@ -8,7 +8,11 @@ tags:
 - Imunidade
 - RNAm
 published: true
-image: ''
+image: "/l-n-s7-wu8xmkx8-unsplash.jpg"
 
 ---
+![](/l-n-s7-wu8xmkx8-unsplash-rect.jpg)
+
 Pelo fato das células continuamente produzirem proteínas, elas precisam de uma maneira de garantir que muitas proteínas não se acumulem na célula, então, em termos gerais, o RNA mensageiro é quebrado bem rapidamente. Mesmo se por alguma razão nossas células não quebrem a vacina do RNA mensageiro, o RNA mensageiro pararia de produzir a proteína dentro de 10 a 14 dias, independente da resposta imune do corpo a proteína.
+
+_Foto_: [L N](https://unsplash.com/@younis67?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vaccine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
