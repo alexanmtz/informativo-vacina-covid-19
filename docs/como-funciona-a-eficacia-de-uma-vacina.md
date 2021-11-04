@@ -2,6 +2,7 @@
 tags:
 - FAQ
 - Fabricantes
+- Eficacia
 title: Como funciona a eficácia de uma vacina?
 date: 2021-11-04
 slug: como-funciona-a-eficacia-da-vacina
