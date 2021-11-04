@@ -43,6 +43,9 @@ Arredondando para 50%, isto significa que a cada 10 pessoas vacinadas, 5 pegam C
 
 **Para calcular a eficácia é necessário comparar vacinados e não-vacinados**, desta forma, quanto maior a eficácia da vacina, menor a quantidade de pessoas que precisam ser vacinadas.
 
-Saiba mais no vídeo a seguir: [Eficácia de Vacinas no canal do YouTube Nunca Vi Um Cientista](https://youtu.be/KH1UUTJeb8o "Eficácia de Vacinas no canal do YouTube Nunca Vi Um Cientista")
+Saiba mais nos vídeo a seguir: 
+
+* [Eficácia de Vacinas no canal do YouTube Nunca Vi Um Cientista](https://youtu.be/KH1UUTJeb8o "Eficácia de Vacinas no canal do YouTube Nunca Vi Um Cientista")
+* [Por que você não pode comparar as vacinas contra a COVID19 em inglês no cana do YouTube Vox]( "Por que você não pode comparar as vacinas contra a COVID19")
 
 _Foto:_ [CDC](https://unsplash.com/@cdc "CDC")
