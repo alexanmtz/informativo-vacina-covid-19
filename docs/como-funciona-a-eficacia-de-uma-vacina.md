@@ -10,6 +10,8 @@ published: true
 image: "/cdc-xlhdvfz0sum-unsplash.jpg"
 
 ---
+![](/cdc-xlhdvfz0sum-unsplash.jpg)
+
 Você sabe como a eficácia de uma vacina é calculada? Existem _fake news_ sobre a vacina que relata erroneamente que:
 
 * De 100 pessoas que se vacinam, 78 não se contaminam.
